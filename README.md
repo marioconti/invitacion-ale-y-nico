@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # invitation-wedding
 >>>>>>> c8e30a0f47ad6a61021569c03a1c12eab205248f
+=======
+# invitation-wedding-master-gaby-lu
+Invitacion casamiento gabriel moreira y lucia ponce de leon
+>>>>>>> b6bc8a4bdbbacdfe60bbb0ccfe85ea882ce603b4
