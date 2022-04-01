@@ -38,18 +38,17 @@ export const Location = () => {
             <img className="img-styles" src="images/church.png" alt="church" />
           </div>
           <p className="description-text-two">
-            <span className="bold">CAPILLA:</span> SAN ANTONIO DE PADUA
+            <span className="bold">PARROQUIA:</span> SAN JUAN BOSCO
           </p>
           <p className="description-text-two">
-            <span className="bold">UBICACIÓN:</span> ROMANO 651 <br />
-            (ESQUINA PJE USANDIVARA)
+            <span className="bold">UBICACIÓN:</span> AV. MITRE 312
           </p>
           <p className="description-text-two">
-            <span className="bold">HORARIO:</span> 18:00 HS
+            <span className="bold">HORARIO:</span> 20:00 HS
           </p>
           <a
             className="link-map"
-            href="https://www.google.com.ar/maps/place/Capilla+San+Antonio+de+Padua/@-26.8288175,-65.2721654,14.88z/data=!4m9!1m2!2m1!1ssan+antonio+de+padua+tucuman!3m5!1s0x94225cc503bda637:0x661442cd81942b54!8m2!3d-26.8252113!4d-65.2711362!15sChxzYW4gYW50b25pbyBkZSBwYWR1YSB0dWN1bWFukgEPY2F0aG9saWNfY2h1cmNo"
+            href="https://www.google.com/maps/place/Parroquia+San+Juan+Bosco/@-26.8237382,-65.2198132,17z/data=!3m1!4b1!4m5!3m4!1s0x94225c4256758df3:0xe6359c7d443fb9b5!8m2!3d-26.8237382!4d-65.2176245"
             target="_blank"
             rel="noreferrer"
           >
@@ -71,19 +70,18 @@ export const Location = () => {
             <img className="img-styles" src="images/party.png" alt="party" />
           </div>
           <p className="description-text-two">
-            <span className="bold">SALÓN:</span> COUNTRY SAN PABLO <br /> SAN
-            PABLO COUNTRY <br /> LIFE & GOLF
+            <span className="bold">SALÓN:</span> ESPACIO TAFI EVENTOS 1
           </p>
           <p className="description-text-two">
-            <span className="bold">UBICACIÓN:</span> AVENIDA SOLANO VERA RUTA
-            PROVINCIAL 338 KM.5
+            <span className="bold">UBICACIÓN:</span> RUTA 313, KM 5.0, TAFÍ
+            VIEJO
           </p>
           <p className="description-text-two">
-            <span className="bold">HORARIO:</span> 19:30 HS
+            <span className="bold">HORARIO:</span> 21:30 HS
           </p>
           <a
             className="link-map"
-            href="https://www.google.com.ar/maps/place/San+Pablo+Country+Life+%26+Golf/@-26.8526733,-65.3189034,15.5z/data=!4m5!3m4!1s0x9422436f81cdc72d:0x2f083f34b254a65e!8m2!3d-26.8539831!4d-65.3155822"
+            href="https://www.google.com/maps/place/Espacio+Tafi+Eventos+1/@-26.7530027,-65.2495299,17z/data=!3m1!4b1!4m5!3m4!1s0x94226784d83c57df:0x16913e635fe71409!8m2!3d-26.7530075!4d-65.2473412"
             target="_blank"
             rel="noreferrer"
           >

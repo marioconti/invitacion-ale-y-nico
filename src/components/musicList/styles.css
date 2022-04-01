@@ -19,7 +19,7 @@
 
 .link-playlist {
   align-items: center;
-  border: 3px solid var(--color-5);
+  border: 3px solid var(--color-8);
   border-radius: 20px;
   box-shadow: 0px 8px 10px -6px rgba(32, 32, 32, 0.75);
   color: inherit;

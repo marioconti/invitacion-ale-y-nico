@@ -59,9 +59,9 @@ export const Reserve = () => {
           data-aos-anchor-placement="top-center"
         >
           <h2 className="description-text">
-            Nos casamos el 20/11/2022 <br />
+            <span className="bold">Nos casamos el 30/4/2022</span> <br />
             y esperamos que puedas estar presente! <br />
-            Te pedimos nos confirmes tu asistencia hasta el 1/11/2022
+            Te pedimos nos confirmes tu asistencia hasta el 22/4/2022
           </h2>
           <div className="container-img-style margin-img">
             <img
@@ -87,7 +87,7 @@ export const Reserve = () => {
             <Box className="modal-box">
               <div className="modal-reserve-container">
                 <iframe
-                  src="https://docs.google.com/forms/d/e/1FAIpQLScbGjlyBD7l3m2cMfXtCWUCLiYzW6Bp4_K0cnK22LBUHKYu4w/viewform?embedded=true"
+                  src="https://docs.google.com/forms/d/e/1FAIpQLSe5-GwgE-pRqBv8OsRrEIiIg5xhCI1QpZiszpu0ymppx8iQ5Q/viewform?embedded=true"
                   className="form-reserve"
                 ></iframe>
                 <div className="exit" onClick={handleButton}>

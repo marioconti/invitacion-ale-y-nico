@@ -46,10 +46,13 @@
 /* =============================== */
 @media screen and (max-width: 980px) {
   .countdown-timer {
-    background-color: var(--color-3);
+    background-color: var(--color-7);
+    border: 3px solid var(--color-3);
     margin: 0 auto;
-    margin-top: 1rem;
     padding: 2px 20px;
+    position: absolute;
+    left: 0;
+    top: 70%;
     width: 100%;
   }
 
@@ -60,6 +63,7 @@
 
   .container-date {
     background-color: none;
+
     margin: 0 5px;
     padding: 2px;
     width: 100%;
@@ -68,16 +72,17 @@
 
   .number-countdown {
     background-color: unset;
-    font-size: 1.3em;
-
+    border-radius: none;
     border-radius: 0px;
+    color: var(--color-3);
     padding: 0.2rem;
+    font-size: 1.5em;
     text-align: center;
   }
 
   .days-text {
     /* border: 3px solid var(--color-5); */
-    color: var(--color-1);
+    color: var(--color-3);
     font-size: 1em;
     font-weight: bold;
     margin-top: 0vh;

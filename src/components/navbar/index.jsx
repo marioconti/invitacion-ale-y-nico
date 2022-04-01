@@ -54,7 +54,7 @@ export const NavBar = () => {
               offset={50}
               duration={1000}
             >
-              G <span className="letter">&</span> S
+              L <span className="letter">&</span> G
             </Link>
             <ul className={`links-container`}>
               <li>
