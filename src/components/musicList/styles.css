@@ -1,0 +1,70 @@
+.container-lista-wedding {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.container-lista-wedding {
+  flex-direction: column;
+  margin-bottom: 10vh;
+}
+
+.container-music {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 80%;
+}
+
+.link-playlist {
+  align-items: center;
+  border: 3px solid var(--color-5);
+  border-radius: 20px;
+  box-shadow: 0px 8px 10px -6px rgba(32, 32, 32, 0.75);
+  color: inherit;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  letter-spacing: 4px;
+  font-weight: bold;
+  font-family: var(--font-bottons);
+  padding: 0.5rem;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  user-select: none;
+  width: 25%;
+}
+
+.link-playlist:hover {
+  letter-spacing: 6px;
+  transition: all 0.2s ease;
+}
+
+.container-img-spotify {
+  margin-left: 10px;
+  height: 1.7rem;
+}
+
+.image-spotify {
+  height: 100%;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 980px) {
+  .container-lista-wedding {
+    flex-direction: column;
+    margin-bottom: 10vh;
+    overflow: hidden;
+  }
+
+  .link-playlist {
+    box-shadow: unset;
+    margin-top: 2vh;
+    width: 100%;
+  }
+
+  .link-playlist:hover {
+    letter-spacing: 0px;
+  }
+}
