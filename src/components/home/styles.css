@@ -1,9 +1,10 @@
 .home-container {
   align-items: center;
-  background: url(../../../public/images/photos/gaby-lu.jpeg) fixed;
+  background: url(../../../public/images/photos/3.jpeg) fixed;
   background-size: cover;
   background-repeat: no-repeat;
-  background-position-y: 10%;
+  background-size: 150%;
+  background-position-x: 10%;
   display: flex;
   height: auto;
   flex-direction: column;
@@ -77,11 +78,12 @@
 @media screen and (max-width: 980px) {
   .home-container {
     height: 100vh;
-    background: url(../../../public/images/photos/gaby&lu-desktop.png) fixed;
+    background: url(../../../public/images/photos/5.jpg) var(--color-7) fixed;
     background-repeat: no-repeat;
     background-size: cover;
-    background-size: 100%;
+    background-size: 150%;
     background-position-y: 0%;
+    background-position-x: 50%;
     padding-top: 0rem;
     width: 100%;
     overflow: hidden;
@@ -100,8 +102,8 @@
     margin-bottom: 0rem;
     /* padding-top: 1.5rem;; */
     position: absolute;
-    /* top: 10%; */
-    top: 33%;
+    top: 8%;
+    /* top: 33%; */
     width: 100%;
   }
 
@@ -111,8 +113,8 @@
     letter-spacing: 2px;
     padding: 1rem 0;
     position: absolute;
-    /* top: 22%; */
-    top: 45%;
+    top: 20%;
+    /* top: 45%; */
     width: 100%;
   }
 

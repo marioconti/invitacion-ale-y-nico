@@ -56,11 +56,11 @@ export const Gifts = () => {
             <span className="bold"> CVU:</span> 2850600140001028645219
           </p>
           <p>
-            <span className="bold">ALIAS:</span>
+            <span className="bold">ALIAS:</span> LULA.GABY
           </p>
           <p>
-            <span className="bold">TITULAR DE LA CUENTA:</span> <br /> MOREIRA
-            GINARTE GABIEL ALEJAND
+            <span className="bold">TITULAR DE LA CUENTA:</span> <br /> GABRIEL A
+            MOREIRA GINARTE
           </p>
         </div>
       </div>
