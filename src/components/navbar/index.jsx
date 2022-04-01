@@ -122,6 +122,18 @@ export const NavBar = () => {
               <li>
                 <Link
                   className={`link`}
+                  to="gratitude"
+                  spy={true}
+                  smooth={true}
+                  offset={-100}
+                  duration={1000}
+                >
+                  TE ESPERAMOS
+                </Link>
+              </li>
+              <li>
+                <Link
+                  className={`link`}
                   to="contacto"
                   spy={true}
                   smooth={true}
@@ -221,6 +233,16 @@ export const NavBar = () => {
                 PLAYLIST
               </Link>
             </li>
+            <Link
+              className={`link`}
+              to="gratitude"
+              spy={true}
+              smooth={true}
+              offset={-50}
+              duration={1000}
+            >
+              TE ESPERAMOS
+            </Link>
             <li>
               <Link
                 onClick={() => {

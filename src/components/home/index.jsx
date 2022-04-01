@@ -8,7 +8,7 @@ export const Home = () => {
     <div id="/" className="home-container">
       <div className="mask">
         <h1 className="title-home">
-          Gaby <span className="letter-home-title">&</span> Lu
+          Lula <span className="letter-home-title">&</span> Gaby
         </h1>
         <h2 className="sub-title-home">¡NOS CASAMOS!</h2>
         {/* FIXME: VER AQUI COMO HACER Q SIEMPRE HAYA UN ESPACIO EN EL MEDIO */}

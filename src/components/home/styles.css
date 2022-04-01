@@ -130,3 +130,9 @@
     width: 90%;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .title-home {
+    font-size: 3.5em;
+  }
+}

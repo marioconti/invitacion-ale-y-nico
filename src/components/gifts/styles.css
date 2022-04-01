@@ -39,7 +39,8 @@
 
   .container-gifts {
     height: auto;
-    margin: 5vh auto;
+    margin: 0vh auto;
+    margin-top: 5vh;
     width: auto;
   }
 

@@ -53,7 +53,7 @@ export const Gifts = () => {
             />
           </div>
           <p>
-            <span className="bold"> CVU:</span> 2850600140001028645219
+            <span className="bold"> CBU:</span> 2850600140001028645219
           </p>
           <p>
             <span className="bold">ALIAS:</span> LULA.GABY

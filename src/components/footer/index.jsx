@@ -28,7 +28,7 @@ export const Footer = () => {
             target="_blank"
             rel="noreferrer"
           >
-            <p className="name-wsp">LU</p>
+            <p className="name-wsp">LULA</p>
             <div className="wsp-container">
               <img
                 className="image-wsp"

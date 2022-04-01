@@ -1,5 +1,53 @@
-.gratitude-container{
-    height: 90vh;
+.gratitude-container {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: auto;
+  margin: 0 auto;
+  width: 80%;
+  overflow: hidden;
+}
+
+.container-carousel-photos {
+  height: 50vh;
+  margin: 0 auto;
+  width: 450px;
+}
+
+.container-retrat {
+  height: 50vh;
+  padding: 20px;
+  width: 100%;
+}
+
+.retrat {
+  object-fit: cover;
+  width: 100%;
+}
+
+/* ESTILO PROPIO */
+.width-gratitude {
+  width: 60%;
+}
+
+@media screen and (max-width: 980px) {
+  .gratitude-container {
     width: 100%;
-    /* background: url(../../../public/images/photos/collage.jpg) fixed; */
+  }
+
+  .container-retrat {
+    height: 450px;
+    padding: 40px;
+    width: 350px;
+  }
+
+  .retrat {
+    width: 100%;
+  }
+
+  /* ESTILO PROPIO */
+  .width-gratitude {
+    width: 75%;
+  }
 }
