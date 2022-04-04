@@ -1,10 +1,8 @@
 .container-lista-wedding {
   align-items: center;
+  background-color: var(--color-2);
   display: flex;
   justify-content: center;
-}
-
-.container-lista-wedding {
   flex-direction: column;
   margin-bottom: 10vh;
 }

@@ -221,28 +221,35 @@ export const NavBar = () => {
                 REGALOS
               </Link>
             </li>
+
+            <Link
+              onClick={() => {
+                setMenuActive(false);
+              }}
+              className={`link`}
+              to="gratitude"
+              spy={true}
+              smooth={true}
+              offset={0}
+              duration={1000}
+            >
+              TE ESPERAMOS
+            </Link>
             <li>
               <Link
+                onClick={() => {
+                  setMenuActive(false);
+                }}
                 className={`link`}
                 to="playlist"
                 spy={true}
                 smooth={true}
-                offset={-50}
+                offset={0}
                 duration={1000}
               >
                 PLAYLIST
               </Link>
             </li>
-            <Link
-              className={`link`}
-              to="gratitude"
-              spy={true}
-              smooth={true}
-              offset={-50}
-              duration={1000}
-            >
-              TE ESPERAMOS
-            </Link>
             <li>
               <Link
                 onClick={() => {
