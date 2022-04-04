@@ -70,7 +70,7 @@ export const Location = () => {
             <img className="img-styles" src="images/party.png" alt="party" />
           </div>
           <p className="description-text-two">
-            <span className="bold">SALÓN:</span> ESPACIO TAFI EVENTOS 1
+            <span className="bold">SALÓN:</span> ESPACIO TAFÍ EVENTOS I
           </p>
           <p className="description-text-two">
             <span className="bold">UBICACIÓN:</span> RUTA 313, KM 5.0, TAFÍ

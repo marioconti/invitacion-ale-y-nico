@@ -16,7 +16,7 @@ export const Gratitude = () => {
       </p>
       <Carousel
         animation="slide"
-        duration={800}
+        duration={700}
         navButtonsAlwaysVisible={false}
         className="carousel-mui-proyect"
         fullHeightHover={false}
