@@ -32,43 +32,95 @@ export const Gratitude = () => {
         swipe={false}
       >
         <div className="container-retrat">
-          <img className="retrat" src="images/photos/1.jpeg" alt="gaby y lu" />
+          <img
+            className="retrat"
+            src="images/photos/gavo-lu1.jpeg"
+            alt="gaby y lu"
+          />
         </div>
         <div className="container-retrat">
-          <img className="retrat" src="images/photos/2.jpeg" alt="gaby y lu" />
+          <img
+            className="retrat"
+            src="images/photos/gavo-lu2.jpeg"
+            alt="gaby y lu"
+          />
         </div>
         <div className="container-retrat">
-          <img className="retrat" src="images/photos/3.jpg" alt="gaby y lu" />
+          <img
+            className="retrat"
+            src="images/photos/gavo-lu3.jpg"
+            alt="gaby y lu"
+          />
         </div>
         <div className="container-retrat">
-          <img className="retrat" src="images/photos/4.jpg" alt="gaby y lu" />
+          <img
+            className="retrat"
+            src="images/photos/gavo-lu4.jpg"
+            alt="gaby y lu"
+          />
         </div>
         <div className="container-retrat">
-          <img className="retrat" src="images/photos/5.jpg" alt="gaby y lu" />
+          <img
+            className="retrat"
+            src="images/photos/gavo-lu5.jpg"
+            alt="gaby y lu"
+          />
         </div>
         <div className="container-retrat">
-          <img className="retrat" src="images/photos/6.jpg" alt="gaby y lu" />
+          <img
+            className="retrat"
+            src="images/photos/gavo-lu6.jpg"
+            alt="gaby y lu"
+          />
         </div>
         <div className="container-retrat">
-          <img className="retrat" src="images/photos/7.jpeg" alt="gaby y lu" />
+          <img
+            className="retrat"
+            src="images/photos/gavo-lu7.jpeg"
+            alt="gaby y lu"
+          />
         </div>
         <div className="container-retrat">
-          <img className="retrat" src="images/photos/8.jpg" alt="gaby y lu" />
+          <img
+            className="retrat"
+            src="images/photos/gavo-lu8.jpg"
+            alt="gaby y lu"
+          />
         </div>
         <div className="container-retrat">
-          <img className="retrat" src="images/photos/9.jpg" alt="gaby y lu" />
+          <img
+            className="retrat"
+            src="images/photos/gavo-lu9.jpg"
+            alt="gaby y lu"
+          />
         </div>
         <div className="container-retrat">
-          <img className="retrat" src="images/photos/10.jpg" alt="gaby y lu" />
+          <img
+            className="retrat"
+            src="images/photos/gavo-lu10.jpg"
+            alt="gaby y lu"
+          />
         </div>
         <div className="container-retrat">
-          <img className="retrat" src="images/photos/11.jpg" alt="gaby y lu" />
+          <img
+            className="retrat"
+            src="images/photos/gavo-lu11.jpg"
+            alt="gaby y lu"
+          />
         </div>
         <div className="container-retrat">
-          <img className="retrat" src="images/photos/12.jpg" alt="gaby y lu" />
+          <img
+            className="retrat"
+            src="images/photos/gavo-lu12.jpg"
+            alt="gaby y lu"
+          />
         </div>
-           <div className="container-retrat">
-          <img className="retrat" src="images/photos/13.jpg" alt="gaby y lu" />
+        <div className="container-retrat">
+          <img
+            className="retrat"
+            src="images/photos/gavo-lu13.jpg"
+            alt="gaby y lu"
+          />
         </div>
       </Carousel>
     </div>
