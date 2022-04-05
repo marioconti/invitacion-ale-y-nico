@@ -16,7 +16,7 @@ export const Gratitude = () => {
       </p>
       <Carousel
         animation="slide"
-        duration={500}
+        duration={350}
         navButtonsAlwaysVisible={false}
         className="carousel-mui-proyect"
         fullHeightHover={false}
@@ -32,17 +32,17 @@ export const Gratitude = () => {
         swipe={false}
       >
         <div className="container-retrat">
-          <img className="retrat" src="images/photos/1.jpg" alt="gaby y lu" />
+          <img className="retrat" src="images/photos/1.jpeg" alt="gaby y lu" />
         </div>
         <div className="container-retrat">
-          <img className="retrat" src="images/photos/2.jpg" alt="gaby y lu" />
+          <img className="retrat" src="images/photos/2.jpeg" alt="gaby y lu" />
         </div>
         <div className="container-retrat">
           <img className="retrat" src="images/photos/3.jpg" alt="gaby y lu" />
         </div>
-        <div className="container-retrat">
+        {/* <div className="container-retrat">
           <img className="retrat" src="images/photos/4.jpg" alt="gaby y lu" />
-        </div>
+        </div> */}
         <div className="container-retrat">
           <img className="retrat" src="images/photos/5.jpg" alt="gaby y lu" />
         </div>
@@ -50,25 +50,22 @@ export const Gratitude = () => {
           <img className="retrat" src="images/photos/6.jpg" alt="gaby y lu" />
         </div>
         <div className="container-retrat">
-          <img className="retrat" src="images/photos/7.jpg" alt="gaby y lu" />
+          <img className="retrat" src="images/photos/7.jpeg" alt="gaby y lu" />
         </div>
         <div className="container-retrat">
           <img className="retrat" src="images/photos/8.jpg" alt="gaby y lu" />
         </div>
         <div className="container-retrat">
-          <img className="retrat" src="images/photos/9.jpeg" alt="gaby y lu" />
+          <img className="retrat" src="images/photos/9.jpg" alt="gaby y lu" />
         </div>
         <div className="container-retrat">
           <img className="retrat" src="images/photos/10.jpg" alt="gaby y lu" />
         </div>
         <div className="container-retrat">
-          <img className="retrat" src="images/photos/11.jpeg" alt="gaby y lu" />
+          <img className="retrat" src="images/photos/11.jpg" alt="gaby y lu" />
         </div>
         <div className="container-retrat">
           <img className="retrat" src="images/photos/12.jpg" alt="gaby y lu" />
-        </div>
-        <div className="container-retrat">
-          <img className="retrat" src="images/photos/13.jpg" alt="gaby y lu" />
         </div>
       </Carousel>
     </div>
