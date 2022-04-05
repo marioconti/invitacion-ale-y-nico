@@ -15,11 +15,13 @@
   display: flex;
   justify-content: center;
   flex-direction: column;
+  height: auto;
   text-align: center;
   width: 100%;
 }
 
 .confirmation-container {
+  height: auto;
   width: 100%;
 }
 
@@ -34,12 +36,14 @@
   font-size: 1em;
   font-weight: 200;
   letter-spacing: 6px;
+  margin-bottom: 10vh;
   text-align: center;
   font-family: var(--font-bottons);
   /* text-shadow: 5px 5px #5555553a; */
   user-select: none;
   transition: all 0.3s ease;
   width: auto;
+  text-decoration: none;
 }
 
 .modal-confirmation:hover {
@@ -90,6 +94,10 @@
     margin: 7vh 0;
   }
 
+  .confirmation-container {
+   margin-bottom: 5vh;
+  }
+
   .modal-confirmation {
     font-size: 0.8em;
     letter-spacing: 4px;
@@ -97,7 +105,7 @@
     font-weight: 500;
     width: 90%;
   }
-
+/* 
   .modal-box {
     background-color: var(--color-2);
     position: relative;
@@ -110,5 +118,5 @@
     font-size: 1.2em;
     top: 15px;
     right: 10px;
-  }
+  } */
 }

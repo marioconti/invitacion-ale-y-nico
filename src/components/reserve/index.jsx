@@ -1,4 +1,3 @@
-/* eslint-disable jsx-a11y/iframe-has-title */
 import React, { useState } from "react";
 import { styled, Box } from "@mui/system";
 import ModalUnstyled from "@mui/core/ModalUnstyled";
@@ -70,32 +69,36 @@ export const Reserve = () => {
               alt="invitation"
             />
           </div>
-          <button
+          <a
             className="modal-confirmation button"
-            type="button"
-            onClick={handleButton}
+            href="https://docs.google.com/forms/d/e/1FAIpQLSe5-GwgE-pRqBv8OsRrEIiIg5xhCI1QpZiszpu0ymppx8iQ5Q/viewform?usp=sf_link"
+            target="_blank"
+            rel="noreferrer"
+            // type="button"
+            // onClick={handleButton}
           >
             CONFIRMAR
-          </button>
-          <StyledModal
+          </a>
+          {/* <StyledModal
             aria-labelledby="unstyled-modal-title"
             aria-describedby="unstyled-modal-description"
             open={open}
             onClose={handleButton}
             BackdropComponent={Backdrop}
           >
-            <Box className="modal-box">
-              <div className="modal-reserve-container">
-                <iframe
-                  src="https://docs.google.com/forms/d/e/1FAIpQLSe5-GwgE-pRqBv8OsRrEIiIg5xhCI1QpZiszpu0ymppx8iQ5Q/viewform?embedded=true"
+            <Box className="modal-box"> */}
+          {/* <div className="modal-reserve-container">
+                <a
+                  src="https://docs.google.com/forms/d/1V-NbVeMEL6RAwDtQbUyCoz32wQmtLBvF9OrRemUZXh8/edit"
                   className="form-reserve"
-                ></iframe>
+                  alt="link confirmation"
+                ></a>
                 <div className="exit" onClick={handleButton}>
                   X
                 </div>
-              </div>
-            </Box>
-          </StyledModal>
+              </div> */}
+          {/* </Box>
+          </StyledModal> */}
         </div>
       </div>
     </div>

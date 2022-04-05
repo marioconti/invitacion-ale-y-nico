@@ -44,7 +44,7 @@ export const Location = () => {
             <span className="bold">UBICACIÓN:</span> AV. MITRE 312
           </p>
           <p className="description-text-two">
-            <span className="bold">HORARIO:</span> 20:00 HS
+            <span className="bold">HORARIO:</span> 19:45 HS
           </p>
           <a
             className="link-map"
