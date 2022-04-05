@@ -8,6 +8,7 @@
   background-color: var(--color-2);
   display: flex;
   justify-content: center;
+  margin-top: 5vh;
   margin-bottom: 7vh;
   height: auto;
   width: 100%;
@@ -41,7 +42,6 @@
   .container-gifts {
     height: auto;
     margin: 0vh auto;
-    margin-top: 5vh;
     width: auto;
   }
 
@@ -51,6 +51,11 @@
 
   .data-gits > p {
     font-size: 1em;
+    line-height: 30px;
     width: 100%;
+  }
+
+  .line-height {
+    margin-bottom: 100px;
   }
 }

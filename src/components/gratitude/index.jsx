@@ -16,7 +16,7 @@ export const Gratitude = () => {
       </p>
       <Carousel
         animation="slide"
-        duration={350}
+        duration={200}
         navButtonsAlwaysVisible={false}
         className="carousel-mui-proyect"
         fullHeightHover={false}
@@ -40,9 +40,9 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img className="retrat" src="images/photos/3.jpg" alt="gaby y lu" />
         </div>
-        {/* <div className="container-retrat">
+        <div className="container-retrat">
           <img className="retrat" src="images/photos/4.jpg" alt="gaby y lu" />
-        </div> */}
+        </div>
         <div className="container-retrat">
           <img className="retrat" src="images/photos/5.jpg" alt="gaby y lu" />
         </div>
@@ -66,6 +66,9 @@ export const Gratitude = () => {
         </div>
         <div className="container-retrat">
           <img className="retrat" src="images/photos/12.jpg" alt="gaby y lu" />
+        </div>
+           <div className="container-retrat">
+          <img className="retrat" src="images/photos/13.jpg" alt="gaby y lu" />
         </div>
       </Carousel>
     </div>

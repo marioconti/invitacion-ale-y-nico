@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-scroll";
+import { Player } from "./MediaPlayer";
 import "./styles.css";
 
 export const NavBar = () => {
@@ -32,6 +33,7 @@ export const NavBar = () => {
 
   return (
     <div className="container-main-navbar">
+      <Player />
       {hamburguesaActive ? (
         <div
           className={`container-hamburguesa`}
@@ -184,7 +186,6 @@ export const NavBar = () => {
                 to="confirmation"
                 spy={true}
                 smooth={true}
-                // FIXME: REVISAR OFFSET AQUí Y EN HOME
                 offset={0}
                 duration={1000}
               >

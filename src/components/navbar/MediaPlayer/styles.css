@@ -1,0 +1,40 @@
+.rhap_progress-section,
+.rhap_volume-container,
+.rhap_additional-controls {
+  display: none;
+}
+
+.rhap_main {
+  z-index: 100000;
+}
+
+.rhap_container {
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0);
+  box-shadow: none;
+  display: flex;
+  justify-content: center;
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  left: 50px;
+  top: 5px;
+  position: fixed;
+  z-index: 100000;
+}
+
+svg {
+  width: 1em;
+  height: 1em;
+}
+
+path {
+  fill: var(--color-6);
+}
+
+@media screen and (max-width: 980px) {
+  .rhap_container {
+    left: unset;
+    top: unset;
+  }
+}

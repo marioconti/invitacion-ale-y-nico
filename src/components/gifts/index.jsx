@@ -53,14 +53,16 @@ export const Gifts = () => {
             />
           </div>
           <p>
-            <span className="bold"> CBU:</span> 2850600140001028645219
+            <span className="bold line-heigh"> CBU:</span>
+            <br /> 2850600140001028645219
           </p>
           <p>
-            <span className="bold">ALIAS:</span> LULA.GABY
+            <span className="bold line-heigh">ALIAS:</span>
+            <br /> LULA.GABY
           </p>
           <p>
-            <span className="bold">TITULAR DE LA CUENTA:</span> <br /> GABRIEL A
-            MOREIRA GINARTE
+            <span className="bold line-heigh">TITULAR DE LA CUENTA:</span>{" "}
+            <br /> GABRIEL A MOREIRA GINARTE
           </p>
         </div>
       </div>

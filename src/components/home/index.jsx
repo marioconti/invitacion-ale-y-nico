@@ -1,18 +1,19 @@
 import React from "react";
 import { Link } from "react-scroll";
 import { CountDownMarried } from "../countdown";
+
 import "./styles.css";
 
 export const Home = () => {
   return (
     <div id="/" className="home-container">
       <div className="mask">
+    
         <h1 className="title-home">
           Lula <span className="letter-home-title">&</span> Gaby
         </h1>
         <h2 className="sub-title-home">¡NOS CASAMOS!</h2>
-        {/* FIXME: VER AQUI COMO HACER Q SIEMPRE HAYA UN ESPACIO EN EL MEDIO */}
-        {/* PROBAR CON POSITION EN LA MASK: ONDA QUE TODOS LOS ELEMENTOS TENGAN ABSOLUTE Y MASK RELATIVE Y DISTRIBUIRLOS POR PORCENTAJES DOS EN TOP Y DOS EN BOTTOM FIXED */}
+        {/* TODO:AQUI HAY QUE HACER EN DESKTOP POSITION PARA MANEJAR LOS ELEMENTOS ASI NO TAPAN CARAS */}
         <CountDownMarried />
         <Link
           className="link-confirmation"
