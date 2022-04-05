@@ -1,6 +1,6 @@
 .home-container {
   align-items: center;
-  background: url(../../../public/images/photos/2.jpeg) fixed;
+  background: url(../../../public/images/photos/gavo-lu2.jpeg) fixed;
   background-size: cover;
   background-repeat: no-repeat;
   background-size: 150%;
@@ -78,7 +78,7 @@
 @media screen and (max-width: 980px) {
   .home-container {
     height: 100vh;
-    background: url(../../../public/images/photos/4.jpg) var(--color-7) fixed;
+    background: url(../../../public/images/photos/gavo-lu4.jpg) var(--color-7) fixed;
     background-repeat: no-repeat;
     background-size: cover;
     background-size: 150%;
