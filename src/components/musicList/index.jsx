@@ -41,7 +41,7 @@ export const ListWedding = () => {
         </div>
         <a
           className="link-playlist"
-          href="https://open.spotify.com/playlist/5f7iwU4PjexoBGJDG7VMM4?si=66ac8507ece245ae"
+          href="https://open.spotify.com/playlist/5f7iwU4PjexoBGJDG7VMM4?si=eb4acf8f6dec407b&pt=fbc7b769eec31a810c978b883229d532"
           target="_blank"
           rel="noreferrer"
         >
