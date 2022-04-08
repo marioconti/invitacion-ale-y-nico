@@ -79,8 +79,7 @@
     height: 100vh;
     background: url(../../../public/images/photos/pilot2.jpg) fixed;
     background-repeat: no-repeat;
-    background-size: cover;
-    background-position-y: 0%;
+    background-size: contain;
     padding-top: 0rem;
     width: 100%;
     overflow: hidden;
