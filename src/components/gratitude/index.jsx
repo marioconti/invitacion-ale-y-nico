@@ -34,91 +34,28 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos/gavo-lu1.jpeg"
+            src="images/photos/couple1.jpg"
             alt="gaby y lu"
           />
         </div>
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos/gavo-lu2.jpeg"
+            src="images/photos/couple2.jpg"
             alt="gaby y lu"
           />
         </div>
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos/gavo-lu3.jpg"
+            src="images/photos/couple3.jpg"
             alt="gaby y lu"
           />
         </div>
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos/gavo-lu4.jpg"
-            alt="gaby y lu"
-          />
-        </div>
-        <div className="container-retrat">
-          <img
-            className="retrat"
-            src="images/photos/gavo-lu5.jpg"
-            alt="gaby y lu"
-          />
-        </div>
-        <div className="container-retrat">
-          <img
-            className="retrat"
-            src="images/photos/gavo-lu6.jpg"
-            alt="gaby y lu"
-          />
-        </div>
-        <div className="container-retrat">
-          <img
-            className="retrat"
-            src="images/photos/gavo-lu7.jpeg"
-            alt="gaby y lu"
-          />
-        </div>
-        <div className="container-retrat">
-          <img
-            className="retrat"
-            src="images/photos/gavo-lu8.jpg"
-            alt="gaby y lu"
-          />
-        </div>
-        <div className="container-retrat">
-          <img
-            className="retrat"
-            src="images/photos/gavo-lu9.jpg"
-            alt="gaby y lu"
-          />
-        </div>
-        <div className="container-retrat">
-          <img
-            className="retrat"
-            src="images/photos/gavo-lu10.jpg"
-            alt="gaby y lu"
-          />
-        </div>
-        <div className="container-retrat">
-          <img
-            className="retrat"
-            src="images/photos/gavo-lu11.jpg"
-            alt="gaby y lu"
-          />
-        </div>
-        <div className="container-retrat">
-          <img
-            className="retrat"
-            src="images/photos/gavo-lu12.jpg"
-            alt="gaby y lu"
-          />
-        </div>
-        <div className="container-retrat">
-          <img
-            className="retrat"
-            src="images/photos/gavo-lu13.jpg"
+            src="images/photos/couple4.jpg"
             alt="gaby y lu"
           />
         </div>

@@ -48,7 +48,7 @@ export const NavBar = () => {
       ) : (
         <div className={`nav-container`}>
           <div className={`nav`}>
-            <Link
+            {/* <Link
               className={`logo-container`}
               to="/"
               spy={true}
@@ -57,7 +57,7 @@ export const NavBar = () => {
               duration={1000}
             >
               L <span className="letter">&</span> G
-            </Link>
+            </Link> */}
             <ul className={`links-container`}>
               <li>
                 <Link

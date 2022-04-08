@@ -12,7 +12,7 @@ export default class Maps extends Component {
           zoom={12.5}
           center={{
             lat: -26.79287,
-            lng: -65.24733,
+            lng: -65.19733,
           }}
           markers={[
             { lat: -26.82372, lng: -65.21762 },

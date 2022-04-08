@@ -1,10 +1,9 @@
 .home-container {
   align-items: center;
-  background: url(../../../public/images/photos/gavo-lu2.jpeg) fixed;
+  background: url(../../../public/images/photos/pilot.jpg) fixed;
   background-size: cover;
   background-repeat: no-repeat;
-  background-size: 150%;
-  background-position-x: 10%;
+  background-position-y: 50%;
   display: flex;
   height: auto;
   flex-direction: column;
@@ -78,7 +77,7 @@
 @media screen and (max-width: 980px) {
   .home-container {
     height: 100vh;
-    background: url(../../../public/images/photos/gavo-lu4.jpg) var(--color-7)
+    background: url(../../../public/images/photos/pilot2.jpg) var(--color-7)
       fixed;
     background-repeat: no-repeat;
     background-size: cover;

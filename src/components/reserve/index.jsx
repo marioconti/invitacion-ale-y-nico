@@ -1,4 +1,3 @@
-/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 // import { styled, Box } from "@mui/system";
 // import ModalUnstyled from "@mui/core/ModalUnstyled";
@@ -72,8 +71,7 @@ export const Reserve = () => {
           </div>
           <a
             className="modal-confirmation button"
-            // href="https://docs.google.com/forms/d/e/1FAIpQLSe5-GwgE-pRqBv8OsRrEIiIg5xhCI1QpZiszpu0ymppx8iQ5Q/viewform?usp=sf_link"
-            href="#"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSe5-GwgE-pRqBv8OsRrEIiIg5xhCI1QpZiszpu0ymppx8iQ5Q/viewform?usp=sf_link"
             target="_blank"
             rel="noreferrer"
             // type="button"

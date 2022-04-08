@@ -54,15 +54,15 @@ export const Gifts = () => {
           </div>
           <p>
             <span className="bold line-heigh"> CBU:</span>
-            <br /> 2850600140001028645219
+            <br /> 123123123123123123
           </p>
           <p>
             <span className="bold line-heigh">ALIAS:</span>
-            <br /> LULA.GABY
+            <br /> AGUS.&.LUCAS
           </p>
           <p>
             <span className="bold line-heigh">TITULAR DE LA CUENTA:</span>{" "}
-            <br /> GABRIEL A MOREIRA GINARTE
+            <br /> AGUS Y LUCAS SE CASAN
           </p>
         </div>
       </div>
