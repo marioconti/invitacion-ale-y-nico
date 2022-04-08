@@ -77,9 +77,10 @@
 @media screen and (max-width: 980px) {
   .home-container {
     height: 100vh;
-    background: url(../../../public/images/photos/pilot2.jpg) fixed;
+    background: url(../../../public/images/photos/pilot2.jpg);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
+    background-position-y: 0%;
     padding-top: 0rem;
     width: 100%;
     overflow: hidden;
