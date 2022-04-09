@@ -26,6 +26,7 @@
 svg {
   width: 1em;
   height: 1em;
+  animation: music 1.5s ease-in-out 0s infinite normal both;
 }
 
 path {
@@ -36,5 +37,19 @@ path {
   .rhap_container {
     left: unset;
     top: unset;
+  }
+}
+
+@keyframes music {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.1);
+  }
+
+  100% {
+    transform: scale(1);
   }
 }

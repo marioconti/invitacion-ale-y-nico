@@ -35,7 +35,7 @@ export const Location = () => {
           data-aos-anchor-placement="top-center"
         >
           <div className="container-img-style">
-            <img className="img-styles" src="images/church.png" alt="church" />
+            <img className="img-styles" src="images/church.png" alt="church" loading="lazy"/>
           </div>
           <p className="description-text-two">
             <span className="bold line-height">PARROQUIA:</span>
@@ -70,7 +70,7 @@ export const Location = () => {
           data-aos-anchor-placement="top-center"
         >
           <div className="container-img-style">
-            <img className="img-styles" src="images/party.png" alt="party" />
+            <img className="img-styles couple-dance" src="images/party.png" alt="party" loading="lazy"/>
           </div>
           <p className="description-text-two">
             <span className="bold line-heigh">SALÓN:</span>

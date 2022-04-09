@@ -81,6 +81,10 @@ code {
   object-fit: cover;
 }
 
+.music-2{
+  animation: music-2 4s ease-in-out 0s infinite normal both;
+}
+
 /* ESTILOS GENERALES MOBILE*/
 @media screen and (max-width: 980px) {
   .title-section {
@@ -136,4 +140,36 @@ code {
 @font-face {
   font-family: merlin-regular;
   src: url(../src/assets/merlin-regular.ttf);
+}
+
+@keyframes dance {
+  0%,
+  100% {
+    transform: rotate(0deg);
+    transform-origin: 50% 0;
+  }
+
+  10% {
+    transform: rotate(2deg);
+  }
+
+  20%,
+  40%,
+  60% {
+    transform: rotate(-4deg);
+  }
+
+  30%,
+  50%,
+  70% {
+    transform: rotate(4deg);
+  }
+
+  80% {
+    transform: rotate(-2deg);
+  }
+
+  90% {
+    transform: rotate(2deg);
+  }
 }

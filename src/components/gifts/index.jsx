@@ -50,17 +50,18 @@ export const Gifts = () => {
               className="img-styles"
               src="images/honeymoon.png"
               alt="honeymoon"
+              loading="lazy"
             />
           </div>
-          <p>
+          <p className="description-text-two">
             <span className="bold line-heigh"> CBU:</span>
             <br /> 123123123123123123
           </p>
-          <p>
+          <p className="description-text-two">
             <span className="bold line-heigh">ALIAS:</span>
             <br /> AGUS.&.LUCAS
           </p>
-          <p>
+          <p className="description-text-two">
             <span className="bold line-heigh">TITULAR DE LA CUENTA:</span>{" "}
             <br /> AGUS Y LUCAS SE CASAN
           </p>

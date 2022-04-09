@@ -62,11 +62,12 @@ export const Reserve = () => {
             y esperamos que puedas estar presente! <br />
             Te pedimos que nos confirmes tu asistencia hasta el 22/4/2022
           </h2>
-          <div className="container-img-style margin-img">
+          <div className="container-img-style margin-img invitation-animation">
             <img
               className="img-styles"
               src="images/invitation.png"
               alt="invitation"
+              loading="lazy"
             />
           </div>
           <a

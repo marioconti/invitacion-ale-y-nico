@@ -44,6 +44,11 @@
   width: 60%;
 }
 
+/* FLECHITA CAROUSEL */
+.MuiButtonBase-root > svg > path {
+  fill: var(--color-1);
+}
+
 @media screen and (max-width: 980px) {
   .gratitude-container {
     width: 100%;
@@ -66,6 +71,11 @@
 
   .retrat {
     height: 45vh;
+  }
+
+  /* FELCHITA */
+  .MuiButtonBase-root {
+    margin: 0 !important;
   }
 
   /* ESTILO PROPIO */

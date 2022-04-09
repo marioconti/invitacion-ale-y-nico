@@ -80,7 +80,7 @@
     background: url(../../../public/images/photos/pilot2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position-y: 0%;
+    background-position-x: 50%;
     padding-top: 0rem;
     width: 100%;
     overflow: hidden;

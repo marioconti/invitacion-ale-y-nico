@@ -5,8 +5,30 @@ import Carousel from "react-material-ui-carousel";
 export const Gratitude = () => {
   return (
     <div id="gratitude" className="gratitude-container">
-      <h1 className="title-section">CADA VEZ FALTA MENOS</h1>
-      <p className="description-text width-gratitude">
+      <h1
+        className="title-section"
+        data-aos="fade-right"
+        data-aos-offset="-200"
+        data-aos-delay="0"
+        data-aos-duration="1000"
+        data-aos-easing="ease"
+        data-aos-mirror="true"
+        data-aos-once="true"
+        data-aos-anchor-placement="top-center"
+      >
+        CADA VEZ FALTA MENOS
+      </h1>
+      <p
+        className="description-text width-gratitude"
+        data-aos="fade-left"
+        data-aos-offset="-200"
+        data-aos-delay="0"
+        data-aos-duration="1000"
+        data-aos-easing="ease"
+        data-aos-mirror="true"
+        data-aos-once="true"
+        data-aos-anchor-placement="top-center"
+      >
         Queremos darles las gracias a todos: amigos, familiares y seres queridos
         que nos han acompañado desde siempre.
         <br /> Es una alegría gigante para nosotros poder compartir este momento
@@ -16,18 +38,19 @@ export const Gratitude = () => {
       </p>
       <Carousel
         animation="slide"
-        duration={200}
-        navButtonsAlwaysVisible={false}
+        duration={800}
+        navButtonsAlwaysVisible={true}
         className="carousel-mui-proyect"
         fullHeightHover={false}
         indicators={false}
         navButtonsProps={{
           style: {
-            backgroundColor: "#FFF",
+            backgroundColor: "var(--color-3)",
             borderRadius: 0,
           },
         }}
         autoPlay={true}
+        interval={8000}
         stopAutoPlayOnHover={false}
         swipe={false}
       >
@@ -35,28 +58,32 @@ export const Gratitude = () => {
           <img
             className="retrat"
             src="images/photos/couple1.jpg"
-            alt="gaby y lu"
+            alt="pareja"
+            loading="lazy"
           />
         </div>
         <div className="container-retrat">
           <img
             className="retrat"
             src="images/photos/couple2.jpg"
-            alt="gaby y lu"
+            alt="pareja"
+            loading="lazy"
           />
         </div>
         <div className="container-retrat">
           <img
             className="retrat"
             src="images/photos/couple3.jpg"
-            alt="gaby y lu"
+            alt="pareja"
+            loading="lazy"
           />
         </div>
         <div className="container-retrat">
           <img
             className="retrat"
             src="images/photos/couple4.jpg"
-            alt="gaby y lu"
+            alt="pareja"
+            loading="lazy"
           />
         </div>
       </Carousel>

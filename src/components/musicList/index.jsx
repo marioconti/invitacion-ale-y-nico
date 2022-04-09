@@ -1,9 +1,24 @@
 import React from "react";
+import { Link } from "react-scroll";
 import "./styles.css";
 
 export const ListWedding = () => {
   return (
     <div id="playlist" className="container-lista-wedding">
+      <Link
+        className={`back-top`}
+        to="/"
+        spy={true}
+        smooth={true}
+        offset={-50}
+        duration={1000}
+      >
+        <img
+          className="svg-back-top"
+          src="images/back-top.svg"
+          alt="back-top"
+        />
+      </Link>
       <h1
         className="title-section"
         data-aos="fade-right"
@@ -32,11 +47,12 @@ export const ListWedding = () => {
           Agregá a nuestra playlist esa canción que no puede faltar en la
           fiesta!
         </p>
-        <div className="container-img-style">
+        <div className="container-img-style music-2">
           <img
             className="img-styles"
             src="images/music-note.png"
             alt="spotify"
+            loading="lazy"
           />
         </div>
         <a

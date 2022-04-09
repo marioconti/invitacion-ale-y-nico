@@ -21,6 +21,10 @@
 }
 
 .confirmation-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   height: auto;
   width: 100%;
 }
@@ -49,6 +53,11 @@
 .modal-confirmation:hover {
   background-color: var(--color-6);
   transition: all 0.3s ease;
+}
+
+.invitation-animation {
+  width: auto;
+  animation: dance 9s ease 0s infinite normal both;
 }
 
 /* ======================== */
@@ -86,7 +95,7 @@
     height: auto;
     justify-content: center;
     overflow: hidden;
-    width: 100%;
+    width: 80%;
   }
 
   /* ESTILO UNICO PARA IMAGEN INVITATION */
@@ -94,18 +103,15 @@
     margin: 7vh 0;
   }
 
-  .confirmation-container {
-   margin-bottom: 5vh;
-  }
-
   .modal-confirmation {
     font-size: 0.8em;
     letter-spacing: 4px;
     margin-bottom: 5vh;
     font-weight: 500;
-    width: 90%;
+    width: 83%;
   }
-/* 
+  
+  /* 
   .modal-box {
     background-color: var(--color-2);
     position: relative;
