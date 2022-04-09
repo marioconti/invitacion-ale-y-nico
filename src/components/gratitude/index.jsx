@@ -49,8 +49,7 @@ export const Gratitude = () => {
             borderRadius: 0,
           },
         }}
-        autoPlay={true}
-        interval={8000}
+        autoPlay={false}
         stopAutoPlayOnHover={false}
         swipe={false}
       >
