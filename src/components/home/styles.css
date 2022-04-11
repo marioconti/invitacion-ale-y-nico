@@ -81,7 +81,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position-y: 0%;
-    /* background-position-x: 50%; */
+    background-position-x: center;
     padding-top: 0rem;
     overflow: hidden;
   }
