@@ -48,7 +48,7 @@ export const Gifts = () => {
           <div className="container-img-style ">
             <img
               className="img-styles"
-              src="images/honeymoon.png"
+              src="images/honeymoon4.png"
               alt="honeymoon"
               loading="lazy"
             />

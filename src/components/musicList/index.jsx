@@ -50,7 +50,7 @@ export const ListWedding = () => {
         <div className="container-img-style music-2">
           <img
             className="img-styles"
-            src="images/music-note.png"
+            src="images/music.png"
             alt="spotify"
             loading="lazy"
           />
