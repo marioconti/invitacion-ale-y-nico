@@ -80,6 +80,7 @@
     background: url(../../../public/images/photos/pilot2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position-y: 0%;
     background-position-x: 50%;
     padding-top: 0rem;
     width: 100%;
@@ -129,7 +130,7 @@
 }
 
 /* ESTO ES PARA TITLE EN MOBILE MUY CHICO */
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 361px) {
   .title-home {
     font-size: 3.5em;
   }
