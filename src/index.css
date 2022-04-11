@@ -4,15 +4,15 @@
   --color-3: #ffffffbd;
   /* --color-4: #ffffff49; */
   --color-4: #2b2b2b6b;
-  --color-5: #E8C7B0;
+  --color-5: #e8c7b0;
   --color-6: #e2cab8;
   --color-7: #e8c7b056;
   --color-8: #00a892;
   --font-title-main: "DM Serif Display", serif;
   --font-subtitle-main: "Montserrat", sans-serif;
   --font-subtitle: "DM Serif Display", serif;
-  --font-body-main: "Quicksand", sans-serif;
-  --font-bottons: "Quicksand", sans-serif;
+  --font-body-main: "Montserrat", sans-serif;
+  --font-bottons: "Montserrat", sans-serif;
 }
 
 /* FONTS */
@@ -24,6 +24,34 @@
 /* font-family: "Bodoni Moda", serif; */
 /* font-family: 'PT Sans', sans-serif; */
 /* font-family: 'Istok Web', sans-serif; */
+
+/* COMINATION 1 */
+/* --font-title-main: "DM Serif Display", serif;
+--font-subtitle-main: "Montserrat", sans-serif;
+--font-subtitle: "DM Serif Display", serif; */
+/* COMINATION 2 */
+/* font-family: 'Playfair Display', serif;
+font-family: 'Raleway', sans-serif; */
+/* COMINATION 3 */
+/* SOLO TITULO CON COOKIE */
+/* font-family: 'Cookie', cursive;
+font-family: 'Open Sans', sans-serif; */
+/* COMINATION 4 */
+/*font-family: 'Montez', cursive; 
+font-family: 'Libre Baskerville', serif;
+font-family: 'Quicksand', sans-serif;
+*/
+/* COMINATION 5 
+font-family: 'Suranna', serif;
+font-family: 'Fraunces', serif;
+font-family: 'Open Sans', sans-serif;
+*/
+/* COMINATION 6 
+font-family: 'Charmonman', cursive;
+font-family: 'DM Serif Display', serif;
+font-family: 'Nunito Sans', sans-serif;
+*/
+
 /* ============================= */
 
 body {
@@ -81,7 +109,7 @@ code {
   object-fit: cover;
 }
 
-.music-2{
+.music-2 {
   animation: music-2 4s ease-in-out 0s infinite normal both;
 }
 
