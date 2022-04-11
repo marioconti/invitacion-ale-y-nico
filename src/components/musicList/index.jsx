@@ -44,8 +44,8 @@ export const ListWedding = () => {
         data-aos-anchor-placement="top-center"
       >
         <p className="description-text">
-          Agregá a nuestra playlist esa canción que no puede faltar en la
-          fiesta!
+          ¿Qué canción no puede faltar en la fiesta?
+          <br /> Dejanos tu recomendación y bailemosla juntos esa noche!
         </p>
         <div className="container-img-style music-2">
           <img
@@ -57,7 +57,16 @@ export const ListWedding = () => {
         </div>
         <a
           className="link-playlist"
-          href="https://open.spotify.com/playlist/5f7iwU4PjexoBGJDG7VMM4?si=02702529e41e47e6&pt=a8a9a5f331c43f37f7be581cdae79ab6"
+          // TODO:LINK A FORMULARIO CON RECOMENDACIONES
+          href="https://open.spotify.com/playlist/1yAANnrXsUuFN1wFryz9in?si=93e772ce7b914fcc"
+          target="_blank"
+          rel="noreferrer"
+        >
+          RECOMENDAR
+        </a>
+        <a
+          className="link-playlist margin-link"
+          href="https://open.spotify.com/playlist/1yAANnrXsUuFN1wFryz9in?si=93e772ce7b914fcc"
           target="_blank"
           rel="noreferrer"
         >

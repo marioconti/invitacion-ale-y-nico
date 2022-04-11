@@ -63,6 +63,11 @@
   width: 100%;
 }
 
+/* ESTILO UNICO DE LINK */
+.margin-link {
+  margin-top: 5vh;
+}
+
 @media screen and (max-width: 980px) {
   .container-lista-wedding {
     flex-direction: column;
@@ -73,7 +78,7 @@
   .link-playlist {
     box-shadow: unset;
     margin-top: 2vh;
-    margin-bottom: 20vh;
+    margin-bottom: 0vh;
     width: 100%;
   }
 
@@ -88,6 +93,11 @@
     height: 70px;
     width: 70px;
     z-index: 1000;
+  }
+
+  .margin-link {
+    margin-top: 5vh;
+    margin-bottom: 20vh;
   }
 }
 

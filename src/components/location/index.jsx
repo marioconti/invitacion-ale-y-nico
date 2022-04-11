@@ -35,18 +35,23 @@ export const Location = () => {
           data-aos-anchor-placement="top-center"
         >
           <div className="container-img-style">
-            <img className="img-styles" src="images/church.png" alt="church" loading="lazy"/>
+            <img
+              className="img-styles"
+              src="images/church.png"
+              alt="church"
+              loading="lazy"
+            />
           </div>
           <p className="description-text-two">
-            <span className="bold line-height">PARROQUIA:</span>
+            <span className="bold line-heigh">PARROQUIA:</span>
             <br /> SAN JUAN BOSCO
           </p>
           <p className="description-text-two">
-            <span className="bold line-height">UBICACIÓN:</span>
+            <span className="bold line-heigh">UBICACIÓN:</span>
             <br /> AV. MITRE 312
           </p>
           <p className="description-text-two">
-            <span className="bold line-height">HORARIO:</span>
+            <span className="bold line-heigh">HORARIO:</span>
             <br /> 19:45 HS
           </p>
           <a
@@ -56,6 +61,14 @@ export const Location = () => {
             rel="noreferrer"
           >
             UBICACIÓN
+          </a>
+          <a
+            className="link-map calendar"
+            href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MWZjMmd1anNoZjFwMHZnZjF1NDd0a2Jta2QgbWFyaW9jb250aTkxQG0&tmsrc=marioconti91%40gmail.com"
+            target="_blank"
+            rel="noreferrer"
+          >
+            AGENDAR
           </a>
         </div>
         <div
@@ -70,7 +83,12 @@ export const Location = () => {
           data-aos-anchor-placement="top-center"
         >
           <div className="container-img-style">
-            <img className="img-styles couple-dance" src="images/party.png" alt="party" loading="lazy"/>
+            <img
+              className="img-styles couple-dance"
+              src="images/party.png"
+              alt="party"
+              loading="lazy"
+            />
           </div>
           <p className="description-text-two">
             <span className="bold line-heigh">SALÓN:</span>
@@ -84,13 +102,21 @@ export const Location = () => {
             <span className="bold line-heigh">HORARIO:</span>
             <br /> 21:00 HS
           </p>
-          <a 
+          <a
             className="link-map"
             href="https://www.google.com/maps/place/Espacio+Tafi+Eventos+1/@-26.7530027,-65.2495299,17z/data=!3m1!4b1!4m5!3m4!1s0x94226784d83c57df:0x16913e635fe71409!8m2!3d-26.7530075!4d-65.2473412"
             target="_blank"
             rel="noreferrer"
           >
             UBICACIÓN
+          </a>
+          <a
+            className="link-map calendar"
+            href="https://calendar.google.com/event?action=TEMPLATE&tmeid=Mml0MnBsc3NmY2FmZnFwamFqZmlwY2Uyc3EgbWFyaW9jb250aTkxQG0&tmsrc=marioconti91%40gmail.com"
+            target="_blank"
+            rel="noreferrer"
+          >
+            AGENDAR
           </a>
         </div>
       </div>

@@ -3,7 +3,7 @@
   background-color: var(--color-2);
   display: flex;
   justify-content: center;
-  height: 45rem;
+  height: 50rem;
   margin-bottom: 5vh;
   padding: 10vh 0;
   width: 100%;
@@ -56,6 +56,13 @@
 .link-map:hover {
   background-color: var(--color-6);
   transition: all 0.3s ease;
+}
+
+/* ESTILO PROPIO DEL BOTÓN DE LINK A CALENDAR */
+.calendar {
+  color: var(--color-1);
+  background-color: unset;
+  border: 3px solid var(--color-5);
 }
 
 /* ======================== */

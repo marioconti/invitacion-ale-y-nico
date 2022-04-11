@@ -58,9 +58,9 @@ export const Reserve = () => {
           data-aos-anchor-placement="top-center"
         >
           <h2 className="description-text">
-            <span className="bold">Nos casamos el 30/4/2022</span> <br />
+            <span className="bold">Nos casamos el 25/4/2023</span> <br />
             y esperamos que puedas estar presente! <br />
-            Te pedimos que nos confirmes tu asistencia hasta el 22/4/2022
+            Te pedimos que nos confirmes tu asistencia hasta el 20/4/2023
           </h2>
           <div className="container-img-style margin-img invitation-animation">
             <img
