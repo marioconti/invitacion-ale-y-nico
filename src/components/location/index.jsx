@@ -112,7 +112,7 @@ export const Location = () => {
           </a>
           <a
             className="link-map calendar"
-            href="https://calendar.google.com/calendar/u/0?cid=dDNkZzd0aGJpZWZhajI3bnNsbjhjdjZqdWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ"
+            href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MzQ5ODNpdTk1dm9iMjdqMWJvZWx0NWx0dnAgdDNkZzd0aGJpZWZhajI3bnNsbjhjdjZqdWNAZw&tmsrc=t3dg7thbiefaj27nsln8cv6juc%40group.calendar.google.com"
             target="_blank"
             rel="noreferrer"
           >
