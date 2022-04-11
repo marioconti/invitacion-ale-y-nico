@@ -64,7 +64,7 @@ export const Location = () => {
           </a>
           <a
             className="link-map calendar"
-            href="https://calendar.google.com/calendar/u/0/r/eventedit/MWZjMmd1anNoZjFwMHZnZjF1NDd0a2Jta2QgbWFyaW9jb250aTkxQG0?tab=wc"
+            href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MWZjMmd1anNoZjFwMHZnZjF1NDd0a2Jta2QgbWFyaW9jb250aTkxQG0&tmsrc=marioconti91%40gmail.com"
             target="_blank"
             rel="noreferrer"
           >
@@ -112,7 +112,7 @@ export const Location = () => {
           </a>
           <a
             className="link-map calendar"
-            href="https://calendar.google.com/calendar/u/0/r/eventedit/Mml0MnBsc3NmY2FmZnFwamFqZmlwY2Uyc3EgbWFyaW9jb250aTkxQG0?tab=wc"
+            href="https://calendar.google.com/event?action=TEMPLATE&tmeid=Mml0MnBsc3NmY2FmZnFwamFqZmlwY2Uyc3EgbWFyaW9jb250aTkxQG0&tmsrc=marioconti91%40gmail.com"
             target="_blank"
             rel="noreferrer"
           >
