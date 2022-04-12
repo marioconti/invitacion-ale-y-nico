@@ -80,9 +80,10 @@ code {
   width: 80%;
 }
 
+/* FIXME:LOS TEXTOS DE LAS DESCRIPCIONES QUEDARON MUY FLACOS VER DE PASAR A 200? */
 .description-text {
   font-size: 1.4em;
-  font-weight: 100;
+  font-weight: 400;
   margin: 0 auto;
   padding-top: 2rem;
   text-align: center;
@@ -90,7 +91,7 @@ code {
 
 .description-text-two {
   font-size: 1.4em;
-  font-weight: 100;
+  font-weight: 400;
   margin: 0 auto;
   text-align: center;
 }
