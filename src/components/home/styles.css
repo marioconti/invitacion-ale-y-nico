@@ -1,9 +1,9 @@
 .home-container {
   align-items: center;
-  background: url(../../../public/images/photos/pilot.jpg) fixed;
+  background: url(../../../public/images/photos-Lu-Amado/10.jpg) fixed;
   background-size: cover;
   background-repeat: no-repeat;
-  background-position-y: 50%;
+  background-position-y: 40%;
   display: flex;
   height: auto;
   flex-direction: column;
@@ -77,10 +77,11 @@
 @media screen and (max-width: 980px) {
   .home-container {
     height: 100vh;
-    background: url(../../../public/images/photos/pilot2.jpg);
+    background: url(../../../public/images/photos-Lu-Amado/fondo-mobile.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:cover;
     background-position-y: 0%;
+    background-position-x: 40%;
     padding-top: 0rem;
     overflow: hidden;
   }
@@ -92,7 +93,7 @@
   }
 
   .title-home {
-    font-size: 4em;
+    font-size: 3em;
     font-weight: 300;
     margin: 0;
     margin-bottom: 0rem;
@@ -104,12 +105,12 @@
   }
 
   .sub-title-home {
-    font-size: 1.8em;
+    font-size: 1.5em;
     font-weight: 500;
     letter-spacing: 2px;
     padding: 1rem 0;
     position: absolute;
-    top: 20%;
+    top: 17%;
     /* top: 45%; */
     width: 100%;
   }

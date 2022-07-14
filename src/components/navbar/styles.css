@@ -27,7 +27,7 @@
 
 .logo-container {
   cursor: pointer;
-  font-size: 2em;
+  font-size: em;
   font-family: "Montserrat", sans-serif;
   left: 0;
   letter-spacing: -3px;

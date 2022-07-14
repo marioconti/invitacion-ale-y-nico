@@ -53,17 +53,52 @@ export const Gifts = () => {
               loading="lazy"
             />
           </div>
-          <p className="description-text-two">
+          {/* <p className="description-text-two">
             <span className="bold line-heigh"> CBU:</span>
-            <br /> 123123123123123123
-          </p>
+            <br />
+          </p> */}
           <p className="description-text-two">
             <span className="bold line-heigh">ALIAS:</span>
-            <br /> AGUS.&.LUCAS
+            <br /> LUCI.AMADO
           </p>
           <p className="description-text-two">
-            <span className="bold line-heigh">TITULAR DE LA CUENTA:</span>{" "}
-            <br /> AGUS Y LUCAS SE CASAN
+            <span className="bold line-heigh">TITULAR DE LA CUENTA:</span>
+            <br />
+            LUCIANA AUTERI
+          </p>
+        </div>
+      </div>
+      <div
+        className="container-gifts"
+        data-aos="fade-left"
+        data-aos-offset="-200"
+        data-aos-delay="0"
+        data-aos-duration="1000"
+        data-aos-easing="ease"
+        data-aos-mirror="true"
+        data-aos-once="true"
+        data-aos-anchor-placement="top-center"
+      >
+        <div className="data-gits">
+          <div className="container-img-style ">
+            <img
+              className="img-styles"
+              src="images/logoterra.jpeg"
+              alt="honeymoon"
+              loading="lazy"
+            />
+          </div>
+          <p className="description-text-two">
+            <span className="bold line-heigh">LISTA DE REGALOS</span>
+            <br /> TERRA MARKET
+          </p>
+          <p className="description-text-two">
+            <span className="bold line-heigh">UBICACIÓN:</span>
+            <br /> SANTA FE 392, <br /> SAN MIGUEL DE TUCUMÁN
+          </p>
+          <p className="description-text-two">
+            <span className="bold line-heigh">TITULAR DE LA LISTA</span>
+            <br /> LUCIANA AUTERI
           </p>
         </div>
       </div>

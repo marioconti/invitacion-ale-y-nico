@@ -8,6 +8,9 @@ import { Gifts } from "./components/gifts";
 import { ListWedding } from "./components/musicList";
 import { Gratitude } from "./components/gratitude";
 import { Footer } from "./components/footer";
+import { Hotel } from "./components/hotel";
+import { DressCode } from "./components/dressCode";
+import { Grid } from "@mui/material";
 
 function App() {
   return (
@@ -17,6 +20,8 @@ function App() {
       <Reserve />
       <Location />
       <Maps />
+      <Hotel />
+      <DressCode />
       <Gifts />
       <Gratitude />
       <ListWedding />

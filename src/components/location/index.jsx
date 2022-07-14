@@ -37,39 +37,40 @@ export const Location = () => {
           <div className="container-img-style">
             <img
               className="img-styles"
-              src="images/church.png"
+              src="images/church3.png"
               alt="church"
               loading="lazy"
             />
           </div>
           <p className="description-text-two">
             <span className="bold line-heigh">PARROQUIA:</span>
-            <br /> SAN JUAN BOSCO
+            <br /> CAPILLA SAN CRISTOBAL
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">UBICACIÓN:</span>
-            <br /> AV. MITRE 312
+            <br /> LOBO DE LA VEGA 650 <br /> (PLAZA MORENO),
+            <br /> YERBA BUENA
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">HORARIO:</span>
-            <br /> 19:45 HS
+            <br /> 17:15 HS
           </p>
           <a
             className="link-map"
-            href="https://www.google.com/maps/place/Parroquia+San+Juan+Bosco/@-26.8237382,-65.2198132,17z/data=!3m1!4b1!4m5!3m4!1s0x94225c4256758df3:0xe6359c7d443fb9b5!8m2!3d-26.8237382!4d-65.2176245"
+            href="https://www.google.com/maps/place/Capilla+San+Cristobal/@-26.8065135,-65.2947882,17.5z/data=!4m5!3m4!1s0x942242d1b9586f13:0x7ba4d2ff3c5037ee!8m2!3d-26.8066592!4d-65.2938358"
             target="_blank"
             rel="noreferrer"
           >
-            UBICACIÓN
+            COMO LLEGAR
           </a>
-          <a
+          {/* <a
             className="link-map calendar"
             href="https://calendar.google.com/event?action=TEMPLATE&tmeid=NzVwaHY3ZWhnb2ZiZmZwc21saWtrMjkzMm0gdDNkZzd0aGJpZWZhajI3bnNsbjhjdjZqdWNAZw&tmsrc=t3dg7thbiefaj27nsln8cv6juc%40group.calendar.google.com"
             target="_blank"
             rel="noreferrer"
           >
             AGENDAR
-          </a>
+          </a> */}
         </div>
         <div
           className="data-location"
@@ -85,39 +86,39 @@ export const Location = () => {
           <div className="container-img-style">
             <img
               className="img-styles couple-dance"
-              src="images/party.png"
+              src="images/party1.png"
               alt="party"
               loading="lazy"
             />
           </div>
           <p className="description-text-two">
             <span className="bold line-heigh">SALÓN:</span>
-            <br /> ESPACIO TAFÍ EVENTOS I
+            <br /> COUNTRY SAN PABLO
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">UBICACIÓN:</span>
-            <br /> RUTA 313, KM 5.0, TAFÍ VIEJO
+            <br /> AV. SOLANO VERA, <br /> RUTA 339 KM 5
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">HORARIO:</span>
-            <br /> 21:00 HS
+            <br /> 19:00 HS
           </p>
           <a
             className="link-map"
-            href="https://www.google.com/maps/place/Espacio+Tafi+Eventos+1/@-26.7530027,-65.2495299,17z/data=!3m1!4b1!4m5!3m4!1s0x94226784d83c57df:0x16913e635fe71409!8m2!3d-26.7530075!4d-65.2473412"
+            href="https://www.google.com/maps?ll=-26.85128,-65.322698&z=15&t=m&hl=es-ES&gl=US&mapclient=apiv3&cid=3389028215159039582"
             target="_blank"
             rel="noreferrer"
           >
-            UBICACIÓN
+            COMO LLEGAR
           </a>
-          <a
+          {/* <a
             className="link-map calendar"
-            href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MzQ5ODNpdTk1dm9iMjdqMWJvZWx0NWx0dnAgdDNkZzd0aGJpZWZhajI3bnNsbjhjdjZqdWNAZw&tmsrc=t3dg7thbiefaj27nsln8cv6juc%40group.calendar.google.com"
+            href="https://calendar.google.com/calendar/u/0/r/eventedit/copy/MzQ5ODNpdTk1dm9iMjdqMWJvZWx0NWx0dnAgdDNkZzd0aGJpZWZhajI3bnNsbjhjdjZqdWNAZw/bWFyaW9jb250aTkxQGdtYWlsLmNvbQ?pli=1&sf=true"
             target="_blank"
             rel="noreferrer"
           >
             AGENDAR
-          </a>
+          </a> */}
         </div>
       </div>
     </div>

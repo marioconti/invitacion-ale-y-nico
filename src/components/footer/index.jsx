@@ -5,15 +5,15 @@ export const Footer = () => {
   return (
     <div id="contacto" className="footer-container">
       <div className="contact-container">
-        <h1 className="message-title">¿TENÉS ALGUNA CONSULTA?</h1>
+        <h1 className="message-title">POR CUALQUIER CONSULTA</h1>
         <div className="container-links">
           <a
-            href="https://api.whatsapp.com/send?phone=5493816599099"
+            href="https://api.whatsapp.com/send?phone=5493815867898"
             className="link-wsp"
             target="_blank"
             rel="noreferrer"
           >
-            <p className="name-wsp">AGUS</p>
+            <p className="name-wsp">LU</p>F
             <div className="wsp-container">
               <img
                 className="image-wsp"
@@ -23,12 +23,12 @@ export const Footer = () => {
             </div>
           </a>
           <a
-            href="https://api.whatsapp.com/send?phone=5493816599099"
+            href="https://api.whatsapp.com/send?phone=5493814014370"
             className="link-wsp"
             target="_blank"
             rel="noreferrer"
           >
-            <p className="name-wsp">LUCAS</p>
+            <p className="name-wsp">AMADO</p>
             <div className="wsp-container">
               <img
                 className="image-wsp"
@@ -46,7 +46,6 @@ export const Footer = () => {
             target="_blank"
             rel="noreferrer"
           >
-            {" "}
             Mario A. Conti
           </a>
           <a

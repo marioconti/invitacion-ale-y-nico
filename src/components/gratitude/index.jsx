@@ -56,7 +56,31 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos/couple1.jpg"
+            src="images/photos-Lu-Amado/1.jpg"
+            alt="pareja"
+            loading="lazy"
+          />
+        </div>
+        <div className="container-retrat">
+        <img
+            className="retrat"
+            src="images/photos-Lu-Amado/2.jpg"
+            alt="pareja"
+            loading="lazy"
+          />
+        </div>
+        <div className="container-retrat">
+        <img
+            className="retrat"
+            src="images/photos-Lu-Amado/3.jpg"
+            alt="pareja"
+            loading="lazy"
+          />
+        </div>
+        <div className="container-retrat">
+        <img
+            className="retrat"
+            src="images/photos-Lu-Amado/4.jpg"
             alt="pareja"
             loading="lazy"
           />
@@ -64,7 +88,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos/couple2.jpg"
+            src="images/photos-Lu-Amado/5.jpg"
             alt="pareja"
             loading="lazy"
           />
@@ -72,7 +96,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos/couple3.jpg"
+            src="images/photos-Lu-Amado/6.jpg"
             alt="pareja"
             loading="lazy"
           />
@@ -80,7 +104,47 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos/couple4.jpg"
+            src="images/photos-Lu-Amado/7.jpg"
+            alt="pareja"
+            loading="lazy"
+          />
+        </div>
+        <div className="container-retrat">
+          <img
+            className="retrat"
+            src="images/photos-Lu-Amado/8.jpg"
+            alt="pareja"
+            loading="lazy"
+          />
+        </div>
+        <div className="container-retrat">
+          <img
+            className="retrat"
+            src="images/photos-Lu-Amado/9.jpg"
+            alt="pareja"
+            loading="lazy"
+          />
+        </div>
+        <div className="container-retrat">
+          <img
+            className="retrat"
+            src="images/photos-Lu-Amado/10.jpg"
+            alt="pareja"
+            loading="lazy"
+          />
+        </div>
+        <div className="container-retrat">
+          <img
+            className="retrat"
+            src="images/photos-Lu-Amado/11.jpg"
+            alt="pareja"
+            loading="lazy"
+          />
+        </div>
+        <div className="container-retrat">
+          <img
+            className="retrat"
+            src="images/photos-Lu-Amado/12.jpg"
             alt="pareja"
             loading="lazy"
           />
