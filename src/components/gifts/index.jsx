@@ -31,7 +31,7 @@ export const Gifts = () => {
       >
         Lo más importante para nosotros es que puedas estar ahí presente. <br />
         Si aparte querés hacernos un regalo, podes ayudarnos con nuestra luna de
-        miel
+        miel o también dejamos una lista en Terra Market.
       </p>
       <div
         className="container-gifts"
