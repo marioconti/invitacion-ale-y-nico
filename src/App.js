@@ -10,7 +10,7 @@ import { Gratitude } from "./components/gratitude";
 import { Footer } from "./components/footer";
 import { Hotel } from "./components/hotel";
 import { DressCode } from "./components/dressCode";
-import { Grid } from "@mui/material";
+// import { Grid } from "@mui/material";
 
 function App() {
   return (
