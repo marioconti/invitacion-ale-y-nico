@@ -20,7 +20,7 @@ export const Hotel = () => {
         data-aos-once="true"
         data-aos-anchor-placement="top-center"
       >
-        ALOJAMIENTO
+        ¿BUSCAN ALOJAMIENTO?
       </h1>
       <p
         className="description-text"
@@ -35,10 +35,10 @@ export const Hotel = () => {
       >
         Les dejamos algunas sugerencias por si llegasen a necesitar alojamiento.
         <br />
-        Les recomendamos buscar cerca de Yerba Buena ya que las celebraciones
+        Les recomendamos buscar cerca de Yerba Buena, ya que las celebraciones
         serán en esa ubicación.
       </p>
-      <div className="container-location">
+      <div className="container-location-hotel">
         <div
           className="data-location"
           data-aos="fade-left"
@@ -64,7 +64,7 @@ export const Hotel = () => {
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">UBICACIÓN:</span>
-            <br /> AV. ACONQUIJA 1136 <br />
+            <br /> AV. ACONQUIJA 1136, <br />
             YERBA BUENA
           </p>
           <a
@@ -109,7 +109,7 @@ export const Hotel = () => {
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">UBICACIÓN:</span>
-            <br /> FLORIDA SUR 167 <br />
+            <br /> FLORIDA SUR 167, <br />
             YERBA BUENA
           </p>
           <a
@@ -154,7 +154,7 @@ export const Hotel = () => {
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">UBICACIÓN:</span>
-            <br /> MIGUEL LILLO 365 <br />
+            <br /> MIGUEL LILLO 365, <br />
             SAN MIGUEL DE TUCUMÁN
           </p>
           <a

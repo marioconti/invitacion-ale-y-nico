@@ -30,7 +30,7 @@ export const ListWedding = () => {
         data-aos-once="true"
         data-aos-anchor-placement="top-center"
       >
-        ¿NOS AYUDAS CON LA MÚSICA?
+        ¿NOS AYUDÁS CON LA MÚSICA?
       </h1>
       <div
         className="container-music"
@@ -44,8 +44,8 @@ export const ListWedding = () => {
         data-aos-anchor-placement="top-center"
       >
         <p className="description-text">
-          ¿Cuál es esa canción que no puede faltar en la fiesta?
-          <br /> Dejanos tu recomendación y bailemosla juntos esa noche!
+          Dejanos tu recomendación de esa canción que no puede faltar <br />y
+          bailemosla juntos esa noche!
         </p>
         <div className="container-img-style music-2">
           <img

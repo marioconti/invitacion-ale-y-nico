@@ -3,9 +3,9 @@
   background-color: var(--color-2);
   display: flex;
   justify-content: center;
-  height: 50rem;
+  height:45rem !important;
   margin-bottom: 5vh;
-  padding: 10vh 0;
+  padding: 12vh 0;
   width: 100%;
 }
 
@@ -74,9 +74,9 @@
 
   .container-location {
     flex-direction: column;
-    height: auto;
-    margin-bottom: 0vh;
-    padding: 5vh 0;
+    height: auto !important;
+    margin-bottom: 5vh;
+    padding: 0 0 5vh !important;
   }
 
   .data-location {

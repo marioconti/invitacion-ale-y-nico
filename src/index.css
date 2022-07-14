@@ -105,7 +105,7 @@ code {
 }
 
 .bold {
-  font-weight: bold;
+  font-weight: 900;
 }
 
 .container-img-style {
@@ -128,7 +128,7 @@ code {
     font-size: 2em;
     font-weight: bold;
     margin: 0 auto;
-    margin-top: 10vh;
+    margin-top: 5vh;
     width: 90%;
     overflow: hidden;
   }

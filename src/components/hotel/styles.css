@@ -1,9 +1,9 @@
-.container-location {
+.container-location-hotel {
   align-items: center;
   background-color: var(--color-2);
   display: flex;
   justify-content: center;
-  height: 40rem;
+  height: 40rem !important;
   margin-bottom: 5vh;
   padding: 10vh 0;
   width: 100%;
@@ -73,9 +73,9 @@
     justify-content: flex-start;
   }
 
-  .container-location {
+  .container-location-hotel {
     flex-direction: column;
-    height: auto;
+    height: auto !important;
     margin-bottom: 0vh;
     padding: 5vh 0;
   }
