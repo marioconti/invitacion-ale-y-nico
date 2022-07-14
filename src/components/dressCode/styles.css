@@ -6,6 +6,7 @@
   flex-direction: column;
   margin-bottom: 10vh;
   position: relative;
+  overflow: hidden;
 }
 /* =============== */
 .margin-distinto{
