@@ -56,7 +56,7 @@ export const ListWedding = () => {
           />
         </div>
         <a
-          className="link-playlist"
+          className="link-playlist" style={{fontWeight:400}}
           // TODO:LINK A FORMULARIO CON RECOMENDACIONES
           href="https://docs.google.com/forms/d/e/1FAIpQLSeJzPJzy8AwTPwx19mu6L2IArE89b2Sn-SIVN9CXqoQgLTwjw/viewform?usp=sf_link"
           target="_blank"
@@ -65,7 +65,7 @@ export const ListWedding = () => {
           RECOMENDAR
         </a>
         <a
-          className="link-playlist margin-link"
+          className="link-playlist margin-link" style={{fontWeight:400}}
           href="https://open.spotify.com/playlist/386U2s6TkQ9bpxCMyxpyxJ?si=f375483d181a4c47"
           target="_blank"
           rel="noreferrer"

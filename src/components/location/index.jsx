@@ -101,7 +101,7 @@ export const Location = () => {
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">HORARIO:</span>
-            <br /> 19:00 HS
+            <br /> 18:30 HS
           </p>
           <a
             className="link-map"
