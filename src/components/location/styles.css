@@ -3,7 +3,7 @@
   background-color: var(--color-2);
   display: flex;
   justify-content: center;
-  height:45rem !important;
+  height: 48rem !important;
   margin-bottom: 5vh;
   padding: 12vh 0;
   width: 100%;
@@ -41,9 +41,9 @@
   cursor: pointer;
   color: var(--color-2);
   padding: 0.8rem 4rem;
-  font-family: var(--font-bottons);
   font-size: 1em;
-  font-weight: 400;
+  font-family: var(--font-bottons);
+  font-weight: var(--weight-bottons)!important;
   letter-spacing: 6px;
   margin-top: auto;
   text-align: center;

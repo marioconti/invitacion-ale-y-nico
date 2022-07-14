@@ -38,7 +38,7 @@
   color: var(--color-2);
   padding: 0.8rem 4rem;
   font-size: 1em;
-  font-weight: 200;
+  font-weight:  var(--weight-bottons);
   letter-spacing: 6px;
   margin-bottom: 5vh;
   text-align: center;

@@ -17,7 +17,8 @@
   /* --font-subtitle: "DM Serif Display", serif; */
   --font-body-main: 'Modern-Sans';
   /* --font-body-main: "Montserrat", sans-serif; */
-  --font-bottons: 'Modern-Sans';
+  --font-bottons: 'Raleway', sans-serif;
+  --weight-bottons:800
   /* --font-bottons: "Montserrat", sans-serif; */
 }
 
@@ -105,7 +106,7 @@ code {
 }
 
 .bold {
-  font-weight: 900;
+  font-weight: bold;
 }
 
 .container-img-style {
