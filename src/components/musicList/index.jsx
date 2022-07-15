@@ -45,7 +45,7 @@ export const ListWedding = () => {
       >
         <p className="description-text">
           Dejanos tu recomendación de esa canción que no puede faltar <br />y
-          bailemosla juntos esa noche!
+          bailémosla juntos esa noche!
         </p>
         <div className="container-img-style music-2">
           <img

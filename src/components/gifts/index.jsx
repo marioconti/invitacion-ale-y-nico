@@ -30,7 +30,7 @@ export const Gifts = () => {
         data-aos-anchor-placement="top-center"
       >
         Lo más importante para nosotros es que puedas estar ahí presente. <br />
-        Si aparte querés hacernos un regalo, podes ayudarnos con nuestra luna de
+        Si aparte querés hacernos un regalo, podés ayudarnos con nuestra luna de
         miel o también dejamos una lista en Fravega.
       </p>
       <div
