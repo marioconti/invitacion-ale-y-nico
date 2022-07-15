@@ -10,7 +10,7 @@ export const Home = () => {
       <div className="mask">
     
         <h1 className="title-home">
-          Lu  <span className="letter-home-title"> <span style={{fontFamily: 'PT Sans', fontSize:"0.9em"}}> & </span> </span> Amado
+          Sabrina  <span className="letter-home-title"> <span style={{fontFamily: 'PT Sans', fontSize:"0.9em"}}> & </span> </span> Tucu
         </h1>
         <h2 className="sub-title-home">¡NOS CASAMOS!</h2>
         {/* TODO:AQUI HAY QUE HACER EN DESKTOP POSITION PARA MANEJAR LOS ELEMENTOS ASI NO TAPAN CARAS */}

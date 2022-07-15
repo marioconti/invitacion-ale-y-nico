@@ -50,7 +50,7 @@ export const ListWedding = () => {
         <div className="container-img-style music-2">
           <img
             className="img-styles"
-            src="images/music4.png"
+            src="images/music.png"
             alt="spotify"
             loading="lazy"
           />
@@ -58,7 +58,7 @@ export const ListWedding = () => {
         <a
           className="link-playlist" style={{fontWeight:400}}
           // TODO:LINK A FORMULARIO CON RECOMENDACIONES
-          href="https://docs.google.com/forms/d/e/1FAIpQLSeJzPJzy8AwTPwx19mu6L2IArE89b2Sn-SIVN9CXqoQgLTwjw/viewform?usp=sf_link"
+          href="https://docs.google.com/forms"
           target="_blank"
           rel="noreferrer"
         >
@@ -66,7 +66,7 @@ export const ListWedding = () => {
         </a>
         <a
           className="link-playlist margin-link" style={{fontWeight:400}}
-          href="https://open.spotify.com/playlist/386U2s6TkQ9bpxCMyxpyxJ?si=f375483d181a4c47"
+          href="https://open.spotify.com"
           target="_blank"
           rel="noreferrer"
         >

@@ -31,7 +31,7 @@ export const Gifts = () => {
       >
         Lo más importante para nosotros es que puedas estar ahí presente. <br />
         Si aparte querés hacernos un regalo, podes ayudarnos con nuestra luna de
-        miel o también dejamos una lista en Terra Market.
+        miel o también dejamos una lista en Fravega.
       </p>
       <div
         className="container-gifts"
@@ -48,7 +48,7 @@ export const Gifts = () => {
           <div className="container-img-style ">
             <img
               className="img-styles"
-              src="images/honeymoon4.png"
+              src="images/honeymoon.png"
               alt="honeymoon"
               loading="lazy"
             />
@@ -59,12 +59,12 @@ export const Gifts = () => {
           </p> */}
           <p className="description-text-two">
             <span className="bold line-heigh">ALIAS:</span>
-            <br /> LUCI.AMADO
+            <br /> SABRI.PRUEBA.TUCU
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">TITULAR DE LA CUENTA:</span>
             <br />
-            LUCIANA AUTERI
+            ROJAS SABRINA
           </p>
         </div>
       </div>
@@ -83,22 +83,22 @@ export const Gifts = () => {
           <div className="container-img-style ">
             <img
               className="img-styles"
-              src="images/logoterra.jpeg"
+              src="images/fravega.png"
               alt="honeymoon"
               loading="lazy"
             />
           </div>
           <p className="description-text-two">
             <span className="bold line-heigh">LISTA DE REGALOS</span>
-            <br /> TERRA MARKET
+            <br /> FRAVEGA
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">UBICACIÓN:</span>
-            <br /> SANTA FE 392, <br /> SAN MIGUEL DE TUCUMÁN
+            <br /> 9 DE JULIO 100, <br /> SAN MIGUEL DE TUCUMÁN
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">TITULAR DE LA LISTA</span>
-            <br /> LUCIANA AUTERI
+            <br /> SABRINA ROJAS
           </p>
         </div>
       </div>

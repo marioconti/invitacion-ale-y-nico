@@ -37,7 +37,7 @@ export const Location = () => {
           <div className="container-img-style">
             <img
               className="img-styles"
-              src="images/church3.png"
+              src="images/church4.png"
               alt="church"
               loading="lazy"
             />
@@ -53,7 +53,7 @@ export const Location = () => {
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">HORARIO:</span>
-            <br /> 17:15 HS
+            <br /> 12:00HS
           </p>
           <a
             className="link-map"
@@ -86,7 +86,7 @@ export const Location = () => {
           <div className="container-img-style">
             <img
               className="img-styles couple-dance"
-              src="images/party1.png"
+              src="images/party4.png"
               alt="party"
               loading="lazy"
             />
@@ -101,7 +101,7 @@ export const Location = () => {
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">HORARIO:</span>
-            <br /> 18:30 HS
+            <br /> 13:30 HS
           </p>
           <a
             className="link-map"

@@ -1,9 +1,8 @@
 .home-container {
   align-items: center;
-  background: url(../../../public/images/photos-Lu-Amado/10.jpg) fixed;
+  background: url(../../../public/images/photos-sabrina-tucu/7.jpeg) fixed;
   background-size: cover;
   background-repeat: no-repeat;
-  background-position-y: 40%;
   display: flex;
   height: auto;
   flex-direction: column;
@@ -77,11 +76,10 @@
 @media screen and (max-width: 980px) {
   .home-container {
     height: 100vh;
-    background: url(../../../public/images/photos-Lu-Amado/fondo-mobile.jpg);
+    background: url(../../../public/images/photos-sabrina-tucu/11.jpg);
     background-repeat: no-repeat;
     background-size:cover;
-    background-position-y: 0%;
-    background-position-x: 40%;
+    background-position-x: 49%;
     padding-top: 0rem;
     overflow: hidden;
   }
@@ -110,7 +108,7 @@
     letter-spacing: 2px;
     padding: 1rem 0;
     position: absolute;
-    top: 17%;
+    top: 16%;
     /* top: 45%; */
     width: 100%;
   }
