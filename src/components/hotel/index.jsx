@@ -20,7 +20,7 @@ export const Hotel = () => {
         data-aos-once="true"
         data-aos-anchor-placement="top-center"
       >
-        ¿BUSCAN ALOJAMIENTO?
+        ¿BUSCAN DONDE QUEDARSE?
       </h1>
       <p
         className="description-text"
@@ -33,10 +33,9 @@ export const Hotel = () => {
         data-aos-once="true"
         data-aos-anchor-placement="top-center"
       >
-        Les dejamos algunas sugerencias por si llegasen a necesitar alojamiento.
+       Las celebraciones serán en Yerba Buena. 
         <br />
-        Les recomendamos buscar cerca de Yerba Buena, ya que las celebraciones
-        serán en esa ubicación.
+        A continuación, les dejamos algunas recomendaciones:
       </p>
       <div className="container-location-hotel">
         <div
