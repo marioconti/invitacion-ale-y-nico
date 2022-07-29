@@ -56,7 +56,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-sabrina-tucu/2.jpg"
+            src="images/photos-bere-gaston/5.jpeg"
             alt="pareja"
             loading="lazy"
           />
@@ -64,7 +64,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-sabrina-tucu/10.jpg"
+            src="images/photos-bere-gaston/9.jpeg"
             alt="pareja"
             loading="lazy"
           />
@@ -72,7 +72,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-sabrina-tucu/3.jpg"
+            src="images/photos-bere-gaston/3.jpeg"
             alt="pareja"
             loading="lazy"
           />
@@ -80,7 +80,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-sabrina-tucu/4.jpg"
+            src="images/photos-bere-gaston/4.jpeg"
             alt="pareja"
             loading="lazy"
           />
@@ -88,7 +88,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-sabrina-tucu/5.jpg"
+            src="images/photos-bere-gaston/1.jpeg"
             alt="pareja"
             loading="lazy"
           />
@@ -96,7 +96,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-sabrina-tucu/6.jpg"
+            src="images/photos-bere-gaston/6.jpeg"
             alt="pareja"
             loading="lazy"
           />
@@ -104,7 +104,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-sabrina-tucu/7.jpeg"
+            src="images/photos-bere-gaston/7.jpeg"
             alt="pareja"
             loading="lazy"
           />
@@ -112,7 +112,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-sabrina-tucu/8.jpg"
+            src="images/photos-bere-gaston/8.jpeg"
             alt="pareja"
             loading="lazy"
           />

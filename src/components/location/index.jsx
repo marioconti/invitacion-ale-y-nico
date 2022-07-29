@@ -44,20 +44,20 @@ export const Location = () => {
           </div>
           <p className="description-text-two">
             <span className="bold line-heigh">PARROQUIA:</span>
-            <br /> CAPILLA SAN CRISTOBAL
+            <br /> JUAN DON BOSCO
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">UBICACIÓN:</span>
-            <br /> LOBO DE LA VEGA 650 <br /> (PLAZA MORENO),
-            <br /> YERBA BUENA
+            <br /> AV. MITRE 312 <br />,
+            <br /> SAN MIGUEL DE TUCUMÁN
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">HORARIO:</span>
-            <br /> 12:00HS
+            <br /> 20:15 HS
           </p>
           <a
             className="link-map"
-            href="https://www.google.com/maps/place/Capilla+San+Cristobal/@-26.8065135,-65.2947882,17.5z/data=!4m5!3m4!1s0x942242d1b9586f13:0x7ba4d2ff3c5037ee!8m2!3d-26.8066592!4d-65.2938358"
+            href="https://www.google.com/maps/place/Parroquia+San+Juan+Bosco/@-26.8237382,-65.2176245,15z/data=!4m5!3m4!1s0x0:0xe6359c7d443fb9b5!8m2!3d-26.8237382!4d-65.2176245"
             target="_blank"
             rel="noreferrer"
           >
@@ -93,19 +93,20 @@ export const Location = () => {
           </div>
           <p className="description-text-two">
             <span className="bold line-heigh">SALÓN:</span>
-            <br /> COUNTRY SAN PABLO
+            <br /> ESPACIO TAFÍ EVENTOS 2
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">UBICACIÓN:</span>
-            <br /> AV. SOLANO VERA, <br /> RUTA 339 KM 5
+            <br /> RUTA 314 KM 5.3, <br />
+            SAN MIGUEL DE TUCUMÁN
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">HORARIO:</span>
-            <br /> 13:30 HS
+            <br /> 22:00 HS A 6:00 HS
           </p>
           <a
             className="link-map"
-            href="https://www.google.com/maps?ll=-26.85128,-65.322698&z=15&t=m&hl=es-ES&gl=US&mapclient=apiv3&cid=3389028215159039582"
+            href="https://www.google.com/maps/place/Espacio+Tafi+Eventos+2/@-26.7502254,-65.2519493,17z/data=!3m1!4b1!4m5!3m4!1s0x9422679a8745de19:0x909ac68854e2d0d9!8m2!3d-26.7502302!4d-65.2497606"
             target="_blank"
             rel="noreferrer"
           >

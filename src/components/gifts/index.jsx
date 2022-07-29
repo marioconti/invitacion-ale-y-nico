@@ -57,48 +57,19 @@ export const Gifts = () => {
             <span className="bold line-heigh"> CBU:</span>
             <br />
           </p> */}
-          <p className="description-text-two">
+          {/* <p className="description-text-two">
             <span className="bold line-heigh">ALIAS:</span>
             <br /> SABRI.PRUEBA.TUCU
+          </p> */}
+          <p className="description-text-two">
+            <span className="bold line-heigh">CBU:</span>
+            <br />
+            2850600140001033179941
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">TITULAR DE LA CUENTA:</span>
             <br />
-            ROJAS SABRINA
-          </p>
-        </div>
-      </div>
-      <div
-        className="container-gifts"
-        data-aos="fade-left"
-        data-aos-offset="-200"
-        data-aos-delay="0"
-        data-aos-duration="1000"
-        data-aos-easing="ease"
-        data-aos-mirror="true"
-        data-aos-once="true"
-        data-aos-anchor-placement="top-center"
-      >
-        <div className="data-gits">
-          <div className="container-img-style ">
-            <img
-              className="img-styles"
-              src="images/fravega.png"
-              alt="honeymoon"
-              loading="lazy"
-            />
-          </div>
-          <p className="description-text-two">
-            <span className="bold line-heigh">LISTA DE REGALOS</span>
-            <br /> FRAVEGA
-          </p>
-          <p className="description-text-two">
-            <span className="bold line-heigh">UBICACIÓN:</span>
-            <br /> 9 DE JULIO 100, <br /> SAN MIGUEL DE TUCUMÁN
-          </p>
-          <p className="description-text-two">
-            <span className="bold line-heigh">TITULAR DE LA LISTA</span>
-            <br /> SABRINA ROJAS
+            ALVAREZ MARIA BERENICE
           </p>
         </div>
       </div>

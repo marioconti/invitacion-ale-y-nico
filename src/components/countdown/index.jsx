@@ -4,7 +4,8 @@ import CountdownTimer from "../countdown/CountdownTimer/CountdownTimer";
 export const CountDownMarried = () => {
   return (
     <div>
-      <CountdownTimer countdownTimestampMs={1672224400000} />
+      {/* ES EL SEGUNDO: MILISEGUNDOS */}
+      <CountdownTimer countdownTimestampMs={1664051400000} />
     </div>
   );
 };

@@ -100,18 +100,6 @@ export const NavBar = () => {
               <li>
                 <Link
                   className={`link`}
-                  to="hotel"
-                  spy={true}
-                  smooth={true}
-                  offset={-100}
-                  duration={1000}
-                >
-                  ALOJAMIENTO
-                </Link>
-              </li>
-              <li>
-                <Link
-                  className={`link`}
                   to="regalos"
                   spy={true}
                   smooth={true}
@@ -217,21 +205,6 @@ export const NavBar = () => {
                 duration={1000}
               >
                 CEREMONIA Y FIESTA
-              </Link>
-            </li>
-            <li>
-              <Link
-               onClick={() => {
-                setMenuActive(false);
-              }}
-                className={`link`}
-                to="hotel"
-                spy={true}
-                smooth={true}
-                offset={-50}
-                duration={1000}
-              >
-                ALOJAMIENTO
               </Link>
             </li>
             <li>
