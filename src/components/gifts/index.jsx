@@ -31,7 +31,7 @@ export const Gifts = () => {
       >
         Lo más importante para nosotros es que puedas estar ahí presente. <br />
         Si aparte querés hacernos un regalo, podés ayudarnos con nuestra luna de
-        miel o también dejamos una lista en Fravega.
+        miel.
       </p>
       <div
         className="container-gifts"
