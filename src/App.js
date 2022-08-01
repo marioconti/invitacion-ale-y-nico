@@ -8,7 +8,7 @@ import { Gifts } from "./components/gifts";
 import { ListWedding } from "./components/musicList";
 import { Gratitude } from "./components/gratitude";
 import { Footer } from "./components/footer";
-// import { DressCode } from "./components/dressCode";
+import { DressCode } from "./components/dressCode";
 // import { Grid } from "@mui/material";
 
 function App() {
@@ -19,7 +19,7 @@ function App() {
       <Reserve />
       <Location />
       <Maps />
-      {/* <DressCode /> */}
+      <DressCode />
       <Gifts />
       <Gratitude />
       <ListWedding />
