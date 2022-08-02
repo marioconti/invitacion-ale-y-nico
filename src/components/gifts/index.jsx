@@ -3,7 +3,7 @@ import "./styles.css";
 
 export const Gifts = () => {
   return (
-    <div className="container-main-gifts">
+    <div className="container-main-gifts" >
       <h1
         id="regalos"
         className="title-section"
@@ -15,6 +15,7 @@ export const Gifts = () => {
         data-aos-mirror="true"
         data-aos-once="true"
         data-aos-anchor-placement="top-center"
+        style={{marginTop:0}}
       >
         ¿QUERÉS HACERNOS UN REGALO?
       </h1>

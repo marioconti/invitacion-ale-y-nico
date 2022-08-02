@@ -48,7 +48,7 @@ export const Location = () => {
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">UBICACIÓN:</span>
-            <br /> AV. MITRE 312 <br />,
+            <br /> AV. MITRE 312,
             <br /> SAN MIGUEL DE TUCUMÁN
           </p>
           <p className="description-text-two">
