@@ -78,7 +78,7 @@
 @media screen and (max-width: 980px) {
   .home-container {
     height: 100vh;
-    background: url(../../../public/images/photos-bere-gaston/mobile4.jpg);
+    background: url(../../../public/images/photos-bere-gaston/mobile.jpg);
     background-repeat: no-repeat;
     background-position-y:50%;
     background-size: cover;
