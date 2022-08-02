@@ -30,7 +30,7 @@ svg {
 }
 
 path {
-  fill: var(--color-6);
+  fill: #FFFF;
 }
 
 @media screen and (max-width: 980px) {
