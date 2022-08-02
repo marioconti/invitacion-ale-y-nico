@@ -15,7 +15,7 @@
   display: flex;
   justify-content: center;
   height: 50px;
-  width: 50px;
+  width: 55px;
   position: absolute;
   left: 50px;
   top: 5px;
@@ -30,7 +30,24 @@ svg {
 }
 
 path {
-  fill: #FFFF;
+  fill: #baeaaa;
+}
+
+.text-play-music {
+  background-color: #baeaaa98;
+  color: rgba(86, 86, 86, 0.808);
+  border-radius: 5px;
+  font-weight: 900;
+  font-size: 9px;
+  font-family: var(--font-bottons);
+  position: absolute;
+  top: 42px;
+  left: 5.5px;
+  position: fixed;
+  width: 45px;
+  padding: 1.5px 10px;
+  text-align: center;
+  z-index: 100;
 }
 
 @media screen and (max-width: 980px) {

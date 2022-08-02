@@ -60,7 +60,7 @@ export const Reserve = () => {
           <h2 className="description-text">
             <span className="bold">Nos casamos el 24/09/2022</span> <br />
             y esperamos contar con vos! <br />
-            Te pedimos que nos confirmes tu asistencia hasta el 16/09/2022
+            Te pedimos que nos confirmes tu asistencia hasta el 1/09/2022
           </h2>
           <div className="container-img-style margin-img invitation-animation">
             <img

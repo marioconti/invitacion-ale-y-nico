@@ -34,6 +34,7 @@ export const NavBar = () => {
   return (
     <div className="container-main-navbar">
       <Player />
+      <p className="text-play-music" src="audio/audio.mp3">PLAY</p>
       {hamburguesaActive ? (
         <div
           className={`container-hamburguesa`}
