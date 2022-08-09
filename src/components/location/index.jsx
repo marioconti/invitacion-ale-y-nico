@@ -101,7 +101,7 @@ export const Location = () => {
             <br /> RP 325 KM 13 <br />
             EL MOLLAR, TUCUMÁN
           </p>
-          <a className="link-map" href="#" target="_blank" rel="noreferrer">
+          <a className="link-map" href="https://www.google.com/maps/place/Estancia+Las+Carreras/@-26.9779207,-65.7618288,10z/data=!4m22!1m13!4m12!1m4!2m2!1d-65.2026019!2d-26.8322264!4e1!1m6!1m2!1s0x942221597276aedb:0x87ad6d9eb5d524f2!2sESTANCIA+LAS+CARRERAS+EL+MOLLAR!2m2!1d-65.7651607!2d-26.9327786!3m7!1s0x942221597276aedb:0x87ad6d9eb5d524f2!5m2!4m1!1i2!8m2!3d-26.9327786!4d-65.7651607" target="_blank" rel="noreferrer">
             COMO LLEGAR
           </a>
           {/* <a
