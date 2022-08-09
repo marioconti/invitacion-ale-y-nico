@@ -18,7 +18,7 @@ function App() {
       <Home />
       <Reserve />
       <Location />
-      <Maps />
+      {/* <Maps /> */}
       <Hotel/>
       <DressCode />
       <Gifts />

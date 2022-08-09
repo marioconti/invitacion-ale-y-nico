@@ -117,7 +117,7 @@
   }
 
   .link-confirmation {
-    font-size: 0.8em;
+    font-size: 1em;
     font-weight: bold;
     letter-spacing: 4px;
     margin-top: auto;
@@ -125,7 +125,8 @@
     position: absolute;
     /* top: 87%; */
     top: 91%;
-    width: 90%;
+    width: 92%;
+    background-color: #e08e53;
   }
 }
 

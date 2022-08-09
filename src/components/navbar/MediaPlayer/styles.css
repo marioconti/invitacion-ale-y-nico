@@ -14,39 +14,45 @@
   box-shadow: none;
   display: flex;
   justify-content: center;
-  height: 50px;
-  width: 55px;
+  height: 70px;
+  width: 70px;
   position: absolute;
-  left: 50px;
-  top: 5px;
+  left: 0px;
+  top: 0px;
   position: fixed;
   z-index: 100000;
 }
 
+.rhap_button-clear {
+  width: auto;
+  height: auto;
+}
+
 svg {
-  width: 1em;
-  height: 1em;
+  width: 1.3em;
+  height: 1.3em;
   animation: music 1.5s ease-in-out 0s infinite normal both;
 }
 
 path {
-  fill: #e2cab8;
+  fill: #e08e53;
 }
 
 .text-play-music {
-  background-color: #e2cab8;
-  color: rgba(86, 86, 86, 0.808);
+  background-color: #e08e53;
+  color: #fff;
   border-radius: 5px;
   font-weight: 900;
-  font-size: 8.5px;
+  font-size: 8px;
+  padding: 20px 0;
   font-family: var(--font-bottons);
   position: absolute;
-  top: 42px;
-  left:4.5px;
+  top: 56px;
+  left: 5px;
   letter-spacing: 1.9px;
   position: fixed;
-  width: 45px;
-  padding:2.3px 10px 3px 9.5px;
+  width: 60px;
+  padding: 4px 10px 4px 9.5px;
   text-align: center;
   z-index: 100;
 }
@@ -64,7 +70,7 @@ path {
   }
 
   50% {
-    transform: scale(1.1);
+    transform: scale(1.15);
   }
 
   100% {

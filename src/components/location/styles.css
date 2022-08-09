@@ -75,7 +75,7 @@
   .container-location {
     flex-direction: column;
     height: auto !important;
-    margin-bottom: 5vh;
+    margin-bottom: -5vh;
     padding: 0 0 5vh !important;
   }
 
@@ -101,7 +101,8 @@
   .link-map {
     line-height: 20px;
     margin-top: 5vh;
-    font-size: 0.8em;
+    font-size: 1em;
+    width: 100% !important;
   }
 
   /* ANIMACION PARA QUE BAILEN LOS "NOVIOS" LA ANIMACIÓN ESTÁ EN EL INDEX PORQUE ES LA MISMA QUE RESERVE */

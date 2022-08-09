@@ -78,7 +78,7 @@ export const Reserve = () => {
             // type="button"
             // onClick={handleButton}
           >
-            CONFIRMAR
+            CONFIRMAR AQUÍ
           </a>
           {/* <StyledModal
             aria-labelledby="unstyled-modal-title"
