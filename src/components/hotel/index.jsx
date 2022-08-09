@@ -61,7 +61,7 @@ export const Hotel = () => {
             className="link-map"
             href={ListadoAlojamientosTafi2022}
             download={ListadoAlojamientosTafi2022}
-            style={{ textDecoration: "none", backgroundColor:"#df873a" }}
+            style={{ textDecoration: "none", backgroundColor:"#c9865d" }}
             target="_blank"
             rel="noreferrer"
           >
