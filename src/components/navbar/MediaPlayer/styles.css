@@ -18,7 +18,9 @@
   width: 70px;
   position: absolute;
   left: 0px;
-  top: 0px;
+  top: -10px;
+  padding-bottom: 20px;
+  padding-right: 20px;
   position: fixed;
   z-index: 100000;
 }
@@ -47,8 +49,8 @@ path {
   padding: 20px 0;
   font-family: var(--font-bottons);
   position: absolute;
-  top: 56px;
-  left: 5px;
+  top: 52px;
+  left: 3px;
   letter-spacing: 1.9px;
   position: fixed;
   width: 60px;
