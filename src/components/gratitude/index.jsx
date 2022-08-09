@@ -56,7 +56,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-bere-gaston/5.jpeg"
+            src="images/photos-anita-juane/3.jpg"
             alt="pareja"
             loading="lazy"
           />
@@ -64,7 +64,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-bere-gaston/9.jpeg"
+            src="images/photos-anita-juane/4.jpg"
             alt="pareja"
             loading="lazy"
           />
@@ -72,7 +72,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-bere-gaston/3.jpeg"
+            src="images/photos-anita-juane/5.jpg"
             alt="pareja"
             loading="lazy"
           />
@@ -80,7 +80,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-bere-gaston/4.jpeg"
+            src="images/photos-anita-juane/6.jpg"
             alt="pareja"
             loading="lazy"
           />
@@ -88,7 +88,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-bere-gaston/1.jpeg"
+            src="images/photos-anita-juane/7.jpg"
             alt="pareja"
             loading="lazy"
           />
@@ -96,7 +96,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-bere-gaston/6.jpeg"
+            src="images/photos-anita-juane/8.jpg"
             alt="pareja"
             loading="lazy"
           />
@@ -104,15 +104,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-bere-gaston/7.jpeg"
-            alt="pareja"
-            loading="lazy"
-          />
-        </div>
-        <div className="container-retrat">
-          <img
-            className="retrat"
-            src="images/photos-bere-gaston/8.jpeg"
+            src="images/photos-anita-juane/1.jpg"
             alt="pareja"
             loading="lazy"
           />

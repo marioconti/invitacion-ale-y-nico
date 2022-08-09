@@ -37,27 +37,27 @@ export const Location = () => {
           <div className="container-img-style">
             <img
               className="img-styles"
-              src="images/church4.png"
+              src="images/church.png"
               alt="church"
               loading="lazy"
             />
           </div>
           <p className="description-text-two">
-            <span className="bold line-heigh">PARROQUIA:</span>
-            <br /> JUAN DON BOSCO
+            <span className="bold line-heigh">IGLESIA:</span>
+            <br /> NUESTRA SEÑORA DEL CARMEN
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">UBICACIÓN:</span>
-            <br /> AV. MITRE 312,
-            <br /> SAN MIGUEL DE TUCUMÁN
+            <br /> AV. BELGRANO 150,
+            <br /> TAFÍ DEL VALLE, TUCUMÁN
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">HORARIO:</span>
-            <br /> 20:15 HS
+            <br /> 11:00 HS
           </p>
           <a
             className="link-map"
-            href="https://www.google.com/maps/place/Parroquia+San+Juan+Bosco/@-26.8237382,-65.2176245,15z/data=!4m5!3m4!1s0x0:0xe6359c7d443fb9b5!8m2!3d-26.8237382!4d-65.2176245"
+            href="https://www.google.com/maps/place/Parroquia+Nuestra+Se%C3%B1ora+del+Carmen/@-26.8536264,-65.7137258,17z/data=!3m1!4b1!4m5!3m4!1s0x94222280cebe4a27:0xad9933062c62b0c4!8m2!3d-26.8536312!4d-65.7115371"
             target="_blank"
             rel="noreferrer"
           >
@@ -86,30 +86,22 @@ export const Location = () => {
           <div className="container-img-style">
             <img
               className="img-styles couple-dance"
-              src="images/party4.png"
+              style={{ borderRadius: 10, width:"300px"}}
+              src="images/photos-anita-juane/estancia-las-carreras1.jpg"
               alt="party"
               loading="lazy"
             />
           </div>
           <p className="description-text-two">
-            <span className="bold line-heigh">SALÓN:</span>
-            <br /> ESPACIO TAFÍ EVENTOS 2
+            <span className="bold line-heigh">FIESTA:</span>
+            <br /> ESTANCIA LAS CARRERAS
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">UBICACIÓN:</span>
-            <br /> RUTA 314 KM 5.3, <br />
-            SAN MIGUEL DE TUCUMÁN
+            <br /> RP 325 KM 13 <br />
+            EL MOLLAR, TUCUMÁN
           </p>
-          <p className="description-text-two">
-            <span className="bold line-heigh">HORARIO:</span>
-            <br /> 22:00 HS A 6:00 HS
-          </p>
-          <a
-            className="link-map"
-            href="https://www.google.com/maps/place/Espacio+Tafi+Eventos+2/@-26.7502254,-65.2519493,17z/data=!3m1!4b1!4m5!3m4!1s0x9422679a8745de19:0x909ac68854e2d0d9!8m2!3d-26.7502302!4d-65.2497606"
-            target="_blank"
-            rel="noreferrer"
-          >
+          <a className="link-map" href="#" target="_blank" rel="noreferrer">
             COMO LLEGAR
           </a>
           {/* <a

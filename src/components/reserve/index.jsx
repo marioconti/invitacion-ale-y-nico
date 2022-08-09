@@ -72,7 +72,7 @@ export const Reserve = () => {
           </div>
           <a
             className="modal-confirmation"
-            href="https://docs.google.com/forms/d/e/1FAIpQLSe39OB5kSAor3sI-e3vQAn8pB72OLGjUQU_wdbdOEo1gZ37Ig/viewform?usp=sf_link"
+            href="https://forms.gle/1ASHes16EE24VPzh9"
             target="_blank"
             rel="noreferrer"
             // type="button"

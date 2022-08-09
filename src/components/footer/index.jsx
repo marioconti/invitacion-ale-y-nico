@@ -8,12 +8,12 @@ export const Footer = () => {
         <h1 className="message-title">POR CUALQUIER CONSULTA</h1>
         <div className="container-links">
           <a
-            href="https://api.whatsapp.com/send?phone=5493813037059"
+            href="https://api.whatsapp.com/send?phone=5493816035154"
             className="link-wsp"
             target="_blank"
             rel="noreferrer"
           >
-            <p className="name-wsp">BERE</p>
+            <p className="name-wsp">ANITA</p>
             <div className="wsp-container">
               <img
                 className="image-wsp"
@@ -23,12 +23,12 @@ export const Footer = () => {
             </div>
           </a>
           <a
-            href="https://api.whatsapp.com/send?phone=5493813608869"
+            href="https://api.whatsapp.com/send?phone=541130837373"
             className="link-wsp"
             target="_blank"
             rel="noreferrer"
           >
-            <p className="name-wsp">GASTÓN</p>
+            <p className="name-wsp">JUANE</p>
             <div className="wsp-container">
               <img
                 className="image-wsp"

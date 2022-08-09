@@ -1,10 +1,9 @@
 .home-container {
   align-items: center;
-  background: url(../../../public/images/photos-bere-gaston/portada-desktop.jpeg)
-    fixed;
+  background: url(../../../public/images/photos-anita-juane/6.jpg) fixed;
   background-size: cover;
   background-repeat: no-repeat;
-  background-position-y: -5%;
+  background-position-y: 75%;
   display: flex;
   height: auto;
   flex-direction: column;
@@ -27,11 +26,12 @@
 .title-home {
   color: var(--color-2);
   display: inline-block;
-  font-size: 8em;
+  font-size: 6em;
   font-family: var(--font-title-main);
   font-weight: 500;
   margin: 0;
-  margin-top: 12vh;
+  margin-top: 2vh;
+  margin-bottom: -3vh;
   text-align: center;
   width: auto;
 }
@@ -42,7 +42,7 @@
 
 .sub-title-home {
   color: var(--color-2);
-  font-size: 3em;
+  font-size: 2.5em;
   font-family: var(--font-subtitle-main);
   letter-spacing: 5px;
   font-weight: 500;
@@ -78,10 +78,11 @@
 @media screen and (max-width: 980px) {
   .home-container {
     height: 100vh;
-    background: url(../../../public/images/photos-bere-gaston/mobile.jpg);
+    background: url(../../../public/images/photos-anita-juane/1.jpg);
     background-repeat: no-repeat;
-    background-position-y:25%;
-    background-size: cover;
+    background-position-y: 3%;
+    background-position-x: 46%;
+    background-size: 225%;
     padding-top: 0rem;
     overflow: hidden;
   }
@@ -93,7 +94,7 @@
   }
 
   .title-home {
-    font-size: 2.7em;
+    font-size: 3.5em;
     font-weight: 300;
     margin: 0;
     margin-bottom: 0rem;
@@ -110,7 +111,7 @@
     letter-spacing: 4px;
     padding: 1rem 0;
     position: absolute;
-    top: 13.5%;
+    top: 14%;
     /* top: 45%; */
     width: 100%;
   }
@@ -123,14 +124,33 @@
     padding: 0.9rem;
     position: absolute;
     /* top: 87%; */
-    top: 89%;
+    top: 91%;
     width: 90%;
   }
 }
 
 /* ESTO ES PARA TITLE EN MOBILE MUY CHICO */
+
+@media screen and (max-width: 375px) {
+  .title-home {
+    font-size: 3em;
+  }
+}
+
 @media screen and (max-width: 361px) {
   .title-home {
-    font-size: 3.5em;
+    font-size: 3em;
+  }
+}
+
+@media screen and (max-width: 280px) {
+  .title-home {
+    top: 8.5%;
+    font-size: 2.5em;
+  }
+
+  .sub-title-home {
+    font-size: 1.2em;
+    top: 14%;
   }
 }

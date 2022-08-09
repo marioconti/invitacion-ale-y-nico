@@ -3,7 +3,7 @@ import "./styles.css";
 
 export const Gifts = () => {
   return (
-    <div className="container-main-gifts" >
+    <div className="container-main-gifts">
       <h1
         id="regalos"
         className="title-section"
@@ -15,7 +15,7 @@ export const Gifts = () => {
         data-aos-mirror="true"
         data-aos-once="true"
         data-aos-anchor-placement="top-center"
-        style={{marginTop:0}}
+        style={{ marginTop: 0 }}
       >
         ¿QUERÉS HACERNOS UN REGALO?
       </h1>
@@ -65,12 +65,17 @@ export const Gifts = () => {
           <p className="description-text-two">
             <span className="bold line-heigh">CBU:</span>
             <br />
-            2850600140001033179941
+            0290025410000544707307
           </p>
           <p className="description-text-two">
-            <span className="bold line-heigh">TITULAR DE LA CUENTA:</span>
+            <span className="bold line-heigh">ALIAS:</span>
             <br />
-            ALVAREZ MARIA BERENICE
+            ANITA.ORQUEDA
+          </p>
+          <p className="description-text-two">
+            <span className="bold line-heigh">TITULAR:</span>
+            <br />
+            ANA SOFÍA ORQUEDA
           </p>
         </div>
       </div>
@@ -95,7 +100,7 @@ export const Gifts = () => {
             />
           </div>
           <p className="description-text-two">
-            <span className="bold line-heigh">COFRES EN EL SALÓN</span>
+            <span className="bold line-heigh">BUZONES EN EL SALÓN</span>
           </p>
         </div>
       </div>

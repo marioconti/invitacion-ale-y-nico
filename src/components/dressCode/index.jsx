@@ -30,7 +30,7 @@ export const DressCode = () => {
       >
         <p className="description-text" style={{paddingTop:"1.7em"}}>
           La vestimenta para el gran día será 
-          <span className="bold"> formal / elegante!</span>
+          <span className="bold"> ELEGANTE</span>
         </p>
         <div className="container-img-style">
           <img

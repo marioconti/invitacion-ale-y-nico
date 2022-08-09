@@ -30,11 +30,11 @@ svg {
 }
 
 path {
-  fill: #baeaaa;
+  fill: #e2cab8;
 }
 
 .text-play-music {
-  background-color: #baeaaa98;
+  background-color: #e2cab8;
   color: rgba(86, 86, 86, 0.808);
   border-radius: 5px;
   font-weight: 900;
@@ -42,7 +42,7 @@ path {
   font-family: var(--font-bottons);
   position: absolute;
   top: 42px;
-  left:4.px;
+  left:4.5px;
   letter-spacing: 1.9px;
   position: fixed;
   width: 45px;
