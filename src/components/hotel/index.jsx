@@ -8,7 +8,7 @@ AOS.init();
 
 export const Hotel = () => {
   return (
-    <div className="location-main-container">
+    <div  id="hotel" className="location-main-container">
       <h1
         id="hotel"
         className="title-section"
@@ -34,7 +34,7 @@ export const Hotel = () => {
         data-aos-once="true"
         data-aos-anchor-placement="top-center"
       >
-        Las celebraciones serán en <br /> Tafí del Valle. A continuación les comportimos un listado con distintas opciones de alojamientos
+        Las celebraciones serán en <br /> Tafí del Valle. <br /> A continuación les comportimos un listado con distintas opciones de alojamientos
       </p>
       <div className="container-location-hotel">
         <div

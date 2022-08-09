@@ -33,7 +33,6 @@ export const Gratitude = () => {
         que nos han acompañado desde siempre.
         <br /> Es una alegría gigante para nosotros poder compartir este momento
         con ustedes.
-        <br />
         Esperamos que nos sigan acompañando ahora y siempre!
       </p>
       <Carousel
@@ -56,7 +55,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-anita-juane/3.jpg"
+            src="images/photos-anita-juane/1.jpg"
             alt="pareja"
             loading="lazy"
           />
@@ -104,7 +103,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-anita-juane/1.jpg"
+            src="images/photos-anita-juane/3.jpg"
             alt="pareja"
             loading="lazy"
           />

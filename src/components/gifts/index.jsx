@@ -31,8 +31,8 @@ export const Gifts = () => {
         data-aos-anchor-placement="top-center"
       >
         Lo más importante para nosotros es que puedas estar ahí presente. <br />
-        Si aparte querés hacernos un regalo, podés ayudarnos con nuestra luna de
-        miel.
+        Si aparte querés hacernos un regalo, podés ayudarnos con nuestra <br />
+        luna de miel.
       </p>
       <div
         className="container-gifts"
@@ -94,13 +94,17 @@ export const Gifts = () => {
           <div className="container-img-style ">
             <img
               className="img-styles"
-              src="images/cofre.png"
+              src="images/buzon2.png"
               alt="cofre"
               loading="lazy"
             />
           </div>
-          <p className="description-text-two">
-            <span className="bold line-heigh">BUZONES EN EL SALÓN</span>
+          <p className="description-text-two"
+              style={{marginTop:"-40px"}}
+              >
+            <span className="bold line-heigh">
+              BUZÓN EN EL SALÓN
+            </span>
           </p>
         </div>
       </div>

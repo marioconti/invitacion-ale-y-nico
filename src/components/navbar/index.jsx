@@ -34,7 +34,9 @@ export const NavBar = () => {
   return (
     <div className="container-main-navbar">
       <Player />
-      <p className="text-play-music" src="audio/audio.mp3">PLAY</p>
+      <p className="text-play-music" src="audio/audio.mp3">
+        PLAY
+      </p>
       {hamburguesaActive ? (
         <div
           className={`container-hamburguesa`}
@@ -96,6 +98,21 @@ export const NavBar = () => {
                   duration={1000}
                 >
                   CEREMONIA Y FIESTA
+                </Link>
+              </li>
+              <li>
+                <Link
+                  onClick={() => {
+                    setMenuActive(false);
+                  }}
+                  className={`link`}
+                  to="hotel"
+                  spy={true}
+                  smooth={true}
+                  offset={-100}
+                  duration={1000}
+                >
+                  ALOJAMIENTOS
                 </Link>
               </li>
               <li>
@@ -206,6 +223,21 @@ export const NavBar = () => {
                 duration={1000}
               >
                 CEREMONIA Y FIESTA
+              </Link>
+            </li>
+            <li>
+              <Link
+                onClick={() => {
+                  setMenuActive(false);
+                }}
+                className={`link`}
+                to="hotel"
+                spy={true}
+                smooth={true}
+                offset={-0}
+                duration={1000}
+              >
+                ALOJAMIENTOS
               </Link>
             </li>
             <li>

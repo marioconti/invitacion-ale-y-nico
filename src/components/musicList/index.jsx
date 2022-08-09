@@ -44,7 +44,7 @@ export const ListWedding = () => {
         data-aos-anchor-placement="top-center"
       >
         <p className="description-text">
-          Dejanos tu recomendación de esa canción que no puede faltar <br />y
+          Dejanos tu recomendación <br /> de esa canción que no puede faltar y
           bailémosla juntos esa noche!
         </p>
         <div className="container-img-style music-2">

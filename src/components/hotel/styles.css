@@ -3,7 +3,7 @@
     background-color: var(--color-2);
     display: flex;
     justify-content: center;
-    height: 40rem !important;
+    height: 24rem !important;
     margin-bottom: 5vh;
     padding: 10vh 0;
     width: 100%;
@@ -46,7 +46,7 @@
     font-size: 1em;
     font-weight: 400;
     letter-spacing: 6px;
-    margin-top: auto;
+    margin-top: 0;
     text-align: center;
     user-select: none;
     transition: all 0.3s ease;
