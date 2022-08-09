@@ -28,6 +28,10 @@
     letter-spacing: 3px;
     width: 80%;
   }
+
+  .titulo-section-hotel{
+    margin-top: -50px;
+  }
   
   .line-heigh {
     line-height: 40px;
@@ -79,6 +83,11 @@
       margin-bottom: 0vh;
       padding: 5vh 0;
     }
+
+    
+  .titulo-section-hotel{
+    margin-top: 0;
+  }
   
     .data-location {
       margin: 0;

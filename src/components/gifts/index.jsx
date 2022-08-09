@@ -91,7 +91,7 @@ export const Gifts = () => {
         data-aos-anchor-placement="top-center"
       >
         <div className="data-gits">
-          <div className="container-img-style ">
+          <div className="container-img-style letter">
             <img
               className="img-styles"
               src="images/buzon2.png"

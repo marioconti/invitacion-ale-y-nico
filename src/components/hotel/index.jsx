@@ -11,7 +11,7 @@ export const Hotel = () => {
     <div  id="hotel" className="location-main-container">
       <h1
         id="hotel"
-        className="title-section"
+        className="title-section titulo-section-hotel"
         data-aos="fade-left"
         data-aos-offset="-200"
         data-aos-delay="0"
