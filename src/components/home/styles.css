@@ -78,11 +78,11 @@
 @media screen and (max-width: 980px) {
   .home-container {
     height: 100vh;
-    background: url(../../../public/images/photos-anita-juane/1.jpg);
+    background: url(../../../public/images/photos-anita-juane/3.jpg);
     background-repeat: no-repeat;
-    background-position-y: 3%;
+    background-position-y: 50%;
     background-position-x: 46%;
-    background-size: 225%;
+    background-size: 185%;
     padding-top: 0rem;
     overflow: hidden;
   }
@@ -100,7 +100,7 @@
     margin-bottom: 0rem;
     /* padding-top: 1.5rem;; */
     position: absolute;
-    top: 6%;
+    top: 7%;
     /* top: 33%; */
     width: 100%;
   }
@@ -111,7 +111,7 @@
     letter-spacing: 4px;
     padding: 1rem 0;
     position: absolute;
-    top: 14%;
+    top: 16%;
     /* top: 45%; */
     width: 100%;
   }
