@@ -3,7 +3,7 @@
   background: url(../../../public/images/photos-negro-agus/4.jpg) fixed;
   background-size: cover;
   background-repeat: no-repeat;
-  background-position-y:43%;
+  background-position-y: 43%;
   display: flex;
   height: auto;
   flex-direction: column;
@@ -78,9 +78,9 @@
 @media screen and (max-width: 980px) {
   .home-container {
     height: 100vh;
-    background: url(../../../public/images/photos-negro-agus/3.jpg);
+    background: url(../../../public/images/photos-negro-agus/4.jpg);
     background-repeat: no-repeat;
-    background-position-y: 60%;
+    background-position-y: 100%;
     background-position-x: 50%;
     background-size: 180%;
     padding-top: 0rem;
