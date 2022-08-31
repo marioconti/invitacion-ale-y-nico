@@ -78,9 +78,9 @@
 @media screen and (max-width: 980px) {
   .home-container {
     height: 100vh;
-    background: url(../../../public/images/photos-negro-agus/1.jpg);
+    background: url(../../../public/images/photos-negro-agus/3.jpg);
     background-repeat: no-repeat;
-    background-position-y: 0%;
+    background-position-y: 60%;
     background-position-x: 50%;
     background-size: 180%;
     padding-top: 0rem;
@@ -126,7 +126,7 @@
     /* top: 87%; */
     top: 91%;
     width: 92%;
-    background-color: #e8b791;
+    background-color: #e8c7b0;
   }
 }
 
