@@ -1,9 +1,9 @@
 .home-container {
   align-items: center;
-  background: url(../../../public/images/photos-anita-juane/6.jpg) fixed;
+  background: url(../../../public/images/photos-negro-agus/4.jpg) fixed;
   background-size: cover;
   background-repeat: no-repeat;
-  background-position-y: 75%;
+  background-position-y:43%;
   display: flex;
   height: auto;
   flex-direction: column;
@@ -42,12 +42,12 @@
 
 .sub-title-home {
   color: var(--color-2);
-  font-size: 2.5em;
+  font-size: 2.2em;
   font-family: var(--font-subtitle-main);
   letter-spacing: 5px;
   font-weight: 500;
   margin: 0;
-  padding-top: 0rem;
+  padding-top: 1rem;
   text-align: center;
 }
 
@@ -78,10 +78,10 @@
 @media screen and (max-width: 980px) {
   .home-container {
     height: 100vh;
-    background: url(../../../public/images/photos-anita-juane/3.jpg);
+    background: url(../../../public/images/photos-negro-agus/1.jpg);
     background-repeat: no-repeat;
-    background-position-y: 50%;
-    background-position-x: 46%;
+    background-position-y: 0%;
+    background-position-x: 50%;
     background-size: 180%;
     padding-top: 0rem;
     overflow: hidden;
@@ -111,7 +111,7 @@
     letter-spacing: 4px;
     padding: 1rem 0;
     position: absolute;
-    top: 16%;
+    top: 18%;
     /* top: 45%; */
     width: 100%;
   }

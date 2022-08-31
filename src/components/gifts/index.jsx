@@ -65,17 +65,17 @@ export const Gifts = () => {
           <p className="description-text-two">
             <span className="bold line-heigh">CBU:</span>
             <br />
-            0290025410000544707307
+            0170070140000078474695
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">ALIAS:</span>
             <br />
-            ANITA.ORQUEDA
+            jcasagrande
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">TITULAR:</span>
             <br />
-            ANA SOFÍA ORQUEDA
+            JORGE LUIS CASAGRANDE
           </p>
         </div>
       </div>

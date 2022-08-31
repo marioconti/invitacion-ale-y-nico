@@ -55,7 +55,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-anita-juane/1.jpg"
+            src="images/photos-negro-agus/9.jpg"
             alt="pareja"
             loading="lazy"
           />
@@ -63,7 +63,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-anita-juane/4.jpg"
+            src="images/photos-negro-agus/8.jpg"
             alt="pareja"
             loading="lazy"
           />
@@ -71,7 +71,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-anita-juane/5.jpg"
+            src="images/photos-negro-agus/5.jpg"
             alt="pareja"
             loading="lazy"
           />
@@ -79,7 +79,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-anita-juane/6.jpg"
+            src="images/photos-negro-agus/6.jpg"
             alt="pareja"
             loading="lazy"
           />
@@ -87,7 +87,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-anita-juane/7.jpg"
+            src="images/photos-negro-agus/7.jpg"
             alt="pareja"
             loading="lazy"
           />
@@ -95,7 +95,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-anita-juane/8.jpg"
+            src="images/photos-negro-agus/10.jpg"
             alt="pareja"
             loading="lazy"
           />
@@ -103,7 +103,23 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-anita-juane/3.jpg"
+            src="images/photos-negro-agus/3.jpg"
+            alt="pareja"
+            loading="lazy"
+          />
+        </div>
+        <div className="container-retrat">
+          <img
+            className="retrat"
+            src="images/photos-negro-agus/11.jpg"
+            alt="pareja"
+            loading="lazy"
+          />
+        </div>
+        <div className="container-retrat">
+          <img
+            className="retrat"
+            src="images/photos-negro-agus/12.jpg"
             alt="pareja"
             loading="lazy"
           />
