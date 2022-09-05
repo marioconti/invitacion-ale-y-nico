@@ -17,7 +17,7 @@ export const Gifts = () => {
         data-aos-anchor-placement="top-center"
         style={{ marginTop: 0 }}
       >
-        ¿QUERÉS HACERNOS UN REGALO?
+        NUESTRO REGALO
       </h1>
       <p
         className="description-text"
@@ -30,9 +30,8 @@ export const Gifts = () => {
         data-aos-once="true"
         data-aos-anchor-placement="top-center"
       >
-        Lo más importante para nosotros es que puedas estar ahí presente. <br />
-        Si aparte querés hacernos un regalo, podés ayudarnos con nuestra <br />
-        luna de miel.
+        Es que nos acompañen en este dia tan especial. Pero si quieres tener un
+        detalle <br/> con nosotros  podés colaborar con  nuestra luna de miel
       </p>
       <div
         className="container-gifts"
@@ -99,12 +98,8 @@ export const Gifts = () => {
               loading="lazy"
             />
           </div>
-          <p className="description-text-two"
-              style={{marginTop:"-40px"}}
-              >
-            <span className="bold line-heigh">
-              BUZÓN EN EL SALÓN
-            </span>
+          <p className="description-text-two" style={{ marginTop: "-40px" }}>
+            <span className="bold line-heigh">BUZÓN EN EL SALÓN</span>
           </p>
         </div>
       </div>

@@ -16,7 +16,7 @@ export const Gratitude = () => {
         data-aos-once="true"
         data-aos-anchor-placement="top-center"
       >
-        CADA VEZ FALTA MENOS
+        GRACIAS
       </h1>
       <p
         className="description-text width-gratitude"
@@ -29,11 +29,7 @@ export const Gratitude = () => {
         data-aos-once="true"
         data-aos-anchor-placement="top-center"
       >
-        Queremos darles las gracias a todos: amigos, familiares y seres queridos
-        que nos han acompañado desde siempre.
-        <br /> Es una alegría gigante para nosotros poder compartir este momento
-        con ustedes.
-        Esperamos que nos sigan acompañando ahora y siempre!
+        No queremos dejar de agradecerles por ser parte de este día tan importante para nosotros, también por ser parte de nuestra historia y de todo el camino que recorrimos hasta aquí.<br/> A nuestra familia, amigos y a todos los que estuvieron, están y sin dudas sabemos que seguirán estando, muchas gracias! <br/>¡Estamos felices de compartirlo <br/>con todos ustedes!
       </p>
       <Carousel
         animation="slide"

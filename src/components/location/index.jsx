@@ -51,10 +51,10 @@ export const Location = () => {
             <br /> ROMANO 651,
             <br /> YERBA BUENA, TUCUMÁN
           </p>
-          <p className="description-text-two">
+          {/* <p className="description-text-two">
             <span className="bold line-heigh">HORARIO:</span>
             <br /> 19:45 HS
-          </p>
+          </p> */}
           <a
             className="link-map"
             href="https://goo.gl/maps/P4b1MKf9D9cgwzEk6"
@@ -99,10 +99,10 @@ export const Location = () => {
             <span className="bold line-heigh">UBICACIÓN:</span>
             <br /> RUTA 313, KM 5.0  <br /> TAFÍ VIEJO, TUCUMÁN
           </p>
-          <p className="description-text-two">
+          {/* <p className="description-text-two">
             <span className="bold line-heigh">HORARIO:</span>
             <br /> 21:00 HS
-          </p>
+          </p> */}
           <a
             className="link-map"
             href="https://goo.gl/maps/PsSZg1eAEM2ixQ3J6"
