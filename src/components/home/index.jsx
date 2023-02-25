@@ -8,11 +8,26 @@ export const Home = () => {
   return (
     <div id="/" className="home-container">
       <div className="mask">
-    
-        <h1 className="title-home" style={{userSelect:"none"}}>
-          Agus  <span className="letter-home-title"> <span style={{fontFamily: 'PT Sans', fontSize:"0.9em", marginRight:5}}> &  </span> </span> Jorge
+        <h1 className="title-home" style={{ userSelect: "none" }}>
+          Seba{" "}
+          <span className="letter-home-title">
+            {" "}
+            <span
+              style={{
+                fontFamily: "PT Sans",
+                fontSize: "0.9em",
+                marginRight: 5,
+              }}
+            >
+              {" "}
+              &{" "}
+            </span>{" "}
+          </span>{" "}
+          Pau
         </h1>
-        <h2 className="sub-title-home" style={{userSelect:"none"}}>¡NOS CASAMOS!</h2>
+        <h2 className="sub-title-home" style={{ userSelect: "none" }}>
+          ¡NOS CASAMOS!
+        </h2>
         {/* TODO:AQUI HAY QUE HACER EN DESKTOP POSITION PARA MANEJAR LOS ELEMENTOS ASI NO TAPAN CARAS */}
         <CountDownMarried />
         <Link
