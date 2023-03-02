@@ -106,8 +106,8 @@
   }
 
   .sub-title-home {
-    font-size: 1.2em;
-    font-weight: 500;
+    font-size: 1.3em;
+    font-weight: 600;
     letter-spacing: 4px;
     padding: 1rem 0;
     position: absolute;
@@ -126,7 +126,7 @@
     /* top: 87%; */
     top: 91%;
     width: 92%;
-    background-color: #b3976dd2;
+    background-color: #b3976d;
   }
 }
 
