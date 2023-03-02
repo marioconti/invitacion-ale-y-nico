@@ -9,7 +9,7 @@ export const Home = () => {
     <div id="/" className="home-container">
       <div className="mask">
         <h1 className="title-home" style={{ userSelect: "none" }}>
-          Seba{" "}
+          Pau{" "}
           <span className="letter-home-title">
             {" "}
             <span
@@ -23,7 +23,7 @@ export const Home = () => {
               &{" "}
             </span>{" "}
           </span>{" "}
-          Pau
+          Seba
         </h1>
         <h2 className="sub-title-home" style={{ userSelect: "none" }}>
           ¡NOS CASAMOS!

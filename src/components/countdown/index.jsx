@@ -5,7 +5,7 @@ export const CountDownMarried = () => {
   return (
     <div>
       {/* ES EL SEGUNDO: MILISEGUNDOS */}
-      <CountdownTimer countdownTimestampMs={1668282300000} />
+      <CountdownTimer countdownTimestampMs={1682186400000} />
     </div>
   );
 };

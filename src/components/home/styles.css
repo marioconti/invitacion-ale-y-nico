@@ -1,9 +1,9 @@
 .home-container {
   align-items: center;
-  background: url(../../../public/images/photos-negro-agus/4.jpg) fixed;
+  background: url(../../../public/images/photos-pau-y-seba/4.jpg) fixed;
   background-size: cover;
   background-repeat: no-repeat;
-  background-position-y: 43%;
+  background-position-y: 0%;
   display: flex;
   height: auto;
   flex-direction: column;
@@ -78,9 +78,9 @@
 @media screen and (max-width: 980px) {
   .home-container {
     height: 100vh;
-    background: url(../../../public/images/photos-negro-agus/4.jpg);
+    background: url(../../../public/images/photos-pau-y-seba/2.jpg);
     background-repeat: no-repeat;
-    background-position-y: 100%;
+    background-position-y: 0%;
     background-position-x: 50%;
     background-size: 180%;
     padding-top: 0rem;
@@ -126,7 +126,7 @@
     /* top: 87%; */
     top: 91%;
     width: 92%;
-    background-color: #e8c7b0e1;
+    background-color: #b3976dd2;
   }
 }
 

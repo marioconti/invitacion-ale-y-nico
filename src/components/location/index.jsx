@@ -1,7 +1,7 @@
-import React from "react";
-import "./styles.css";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import React from "react";
+import "./styles.css";
 
 AOS.init();
 
@@ -34,8 +34,12 @@ export const Location = () => {
           data-aos-once="true"
           data-aos-anchor-placement="top-center"
         >
-          <div className="container-img-style">
+          <div
+            className="container-img-style img-responsive-church"
+            style={{ height: 180 }}
+          >
             <img
+              style={{ height: 150, marginTop: 30 }}
               className="img-styles"
               src="images/church.png"
               alt="church"
@@ -44,20 +48,20 @@ export const Location = () => {
           </div>
           <p className="description-text-two">
             <span className="bold line-heigh">CAPILLA:</span>
-            <br /> SAN ANTONIO DE PADUA
+            <br /> SAN CRISTOBAL
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">UBICACIÓN:</span>
-            <br /> ROMANO 651,
+            <br /> LOBO DE LA VEGA Y BRASIL,
             <br /> YERBA BUENA, TUCUMÁN
           </p>
-          {/* <p className="description-text-two">
+          <p className="description-text-two">
             <span className="bold line-heigh">HORARIO:</span>
-            <br /> 19:45 HS
-          </p> */}
+            <br /> 18:00 HS
+          </p>
           <a
             className="link-map"
-            href="https://goo.gl/maps/P4b1MKf9D9cgwzEk6"
+            href="https://goo.gl/maps/oi577eHNvqN1oGUc8"
             target="_blank"
             rel="noreferrer"
           >
@@ -83,29 +87,33 @@ export const Location = () => {
           data-aos-once="true"
           data-aos-anchor-placement="top-center"
         >
-          <div className="container-img-style">
+          <div
+            className="container-img-style  gif-dance"
+            style={{ height: 180 }}
+          >
             <img
-              className="img-styles couple-dance"
-              src="images/party1.png"
+              style={{ height: 240 }}
               alt="party"
-              loading="lazy"
+              className="img-styles couple-dance"
+              src="https://media4.giphy.com/media/sZorfXxRDb4D8qllg0/giphy.gif?cid=790b76117b07f25079fa07ced0c3a8162a0556f3b9d7d168&rid=giphy.gif&ct=g"
+              title="couple"
             />
           </div>
           <p className="description-text-two">
             <span className="bold line-heigh">SALÓN:</span>
-            <br /> ESPACIO TAFI I
+            <br /> TERRAZAS DE SAN JOSÉ
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">UBICACIÓN:</span>
-            <br /> RUTA 313, KM 5.0  <br /> TAFÍ VIEJO, TUCUMÁN
+            <br /> AV. PERÓN 2400 <br /> YERBA BUENA, TUCUMÁN
           </p>
-          {/* <p className="description-text-two">
+          <p className="description-text-two">
             <span className="bold line-heigh">HORARIO:</span>
-            <br /> 21:00 HS
-          </p> */}
+            <br /> 19:00 HS
+          </p>
           <a
             className="link-map"
-            href="https://goo.gl/maps/PsSZg1eAEM2ixQ3J6"
+            href="https://goo.gl/maps/qjZ8ErGCbNNWTLh77"
             target="_blank"
             rel="noreferrer"
           >

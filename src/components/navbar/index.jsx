@@ -100,7 +100,7 @@ export const NavBar = () => {
                   CEREMONIA Y FIESTA
                 </Link>
               </li>
-              {/* <li>
+              <li>
                 <Link
                   onClick={() => {
                     setMenuActive(false);
@@ -114,7 +114,7 @@ export const NavBar = () => {
                 >
                   ALOJAMIENTOS
                 </Link>
-              </li> */}
+              </li>
               <li>
                 <Link
                   className={`link`}
@@ -225,7 +225,7 @@ export const NavBar = () => {
                 CEREMONIA Y FIESTA
               </Link>
             </li>
-            {/* <li>
+            <li>
               <Link
                 onClick={() => {
                   setMenuActive(false);
@@ -239,7 +239,7 @@ export const NavBar = () => {
               >
                 ALOJAMIENTOS
               </Link>
-            </li> */}
+            </li>
             <li>
               <Link
                 onClick={() => {

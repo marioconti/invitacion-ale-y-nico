@@ -17,7 +17,7 @@ export const Gifts = () => {
         data-aos-anchor-placement="top-center"
         style={{ marginTop: 0 }}
       >
-        NUESTRO REGALO
+        ¿QUERÉS HACERNOS UN REGALO?
       </h1>
       <p
         className="description-text"
@@ -30,8 +30,9 @@ export const Gifts = () => {
         data-aos-once="true"
         data-aos-anchor-placement="top-center"
       >
-        Es que nos acompañen en este dia tan especial. Pero si quieres tener un
-        detalle <br/> con nosotros  podés colaborar con  nuestra luna de miel
+        Lo más importante para nosotros es que puedas estar ahí presente. <br />
+        Si aparte querés hacernos un regalo, podés ayudarnos con nuestra <br />
+        luna de miel.
       </p>
       <div
         className="container-gifts"
@@ -64,17 +65,17 @@ export const Gifts = () => {
           <p className="description-text-two">
             <span className="bold line-heigh">CBU:</span>
             <br />
-            0170070140000078474695
+            2850600140001023349819
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">ALIAS:</span>
             <br />
-            jcasagrande
+            seba.falcon.macro
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">TITULAR:</span>
             <br />
-            JORGE LUIS CASAGRANDE
+            SEBASTIÁN FALCÓN
           </p>
         </div>
       </div>

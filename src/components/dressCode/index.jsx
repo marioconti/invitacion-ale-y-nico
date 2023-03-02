@@ -28,8 +28,8 @@ export const DressCode = () => {
         data-aos-once="true"
         data-aos-anchor-placement="top-center"
       >
-        <p className="description-text" style={{paddingTop:"1.7em"}}>
-          La vestimenta para el gran día será 
+        <p className="description-text" style={{ paddingTop: "1.7em" }}>
+          La vestimenta para el gran día será
           <span className="bold"> ELEGANTE</span>
         </p>
         <div className="container-img-style">

@@ -23,7 +23,7 @@ export const Footer = () => {
             </div>
           </a>
           <a
-            href="https://api.whatsapp.com/send?phone=54381"
+            href="https://api.whatsapp.com/send?phone=5493816629548"
             className="link-wsp"
             target="_blank"
             rel="noreferrer"

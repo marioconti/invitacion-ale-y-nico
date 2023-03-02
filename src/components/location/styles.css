@@ -43,7 +43,7 @@
   padding: 0.8rem 4rem;
   font-size: 1em;
   font-family: var(--font-bottons);
-  font-weight: var(--weight-bottons)!important;
+  font-weight: var(--weight-bottons) !important;
   letter-spacing: 6px;
   margin-top: auto;
   text-align: center;
@@ -53,7 +53,7 @@
   width: auto;
 }
 
-.estancia{
+.estancia {
   margin-top: 11vh !important;
 }
 
@@ -109,8 +109,12 @@
     width: 100% !important;
   }
 
-  .estancia{
+  .estancia {
     margin-top: 4vh !important;
+  }
+  .gif-dance {
+    margin-top: -10px;
+    margin-left: 40px;
   }
   /* ANIMACION PARA QUE BAILEN LOS "NOVIOS" LA ANIMACIÓN ESTÁ EN EL INDEX PORQUE ES LA MISMA QUE RESERVE */
   /* .couple-dance {

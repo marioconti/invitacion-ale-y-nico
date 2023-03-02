@@ -3,22 +3,22 @@
   --color-2: #ffffff;
   --color-3: #ffffffbd;
   /* --color-4: #ffffff49; */
-  --color-4: #2b2b2b6e;
-  --color-5: #e8c7b0;
-  --color-6: #e8b791c3;
-  --color-7: #e8c7b0a4;
+  --color-4: #754f156c;
+  --color-5: #b3976daf;
+  --color-6: #b3976d8e;
+  --color-7: #b3976dd0;
   --color-8: #00a892;
-  --font-title-main: 'Charmonman', cursive;
-  /* --font-title-main: "DM Serif Display", serif; */
-  
-  --font-subtitle-main:'Nunito Sans', sans-serif;
+  /* --font-title-main: "Charmonman", cursive; */
+  --font-title-main: "DM Serif Display", serif;
+
+  --font-subtitle-main: "Nunito Sans", sans-serif;
   /* --font-subtitle-main: "Montserrat", sans-serif; */
-  --font-subtitle: 'Ne-Sans';
+  --font-subtitle: "Ne-Sans";
   /* --font-subtitle: "DM Serif Display", serif; */
-  --font-body-main: 'Modern-Sans';
+  --font-body-main: "Modern-Sans";
   /* --font-body-main: "Montserrat", sans-serif; */
-  --font-bottons: 'Raleway', sans-serif;
-  --weight-bottons:800
+  --font-bottons: "Raleway", sans-serif;
+  --weight-bottons: 800;
   /* --font-bottons: "Montserrat", sans-serif; */
 }
 
