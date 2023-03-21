@@ -29,10 +29,9 @@ export const Gratitude = () => {
         data-aos-once="true"
         data-aos-anchor-placement="top-center"
       >
-        Queremos darles las gracias a todos: amigos, familiares y seres queridos
-        que nos han acompañado desde siempre.
-        <br /> Es una alegría gigante para nosotros poder compartir este momento
-        con ustedes. Esperamos que nos sigan acompañando ahora y siempre!
+        Gracias querida familia y amigos por acompañarnos desde siempre y
+        especialmente en este momento tan importante para nosotros, los
+        esperamos!
       </p>
       <Carousel
         animation="slide"
