@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -81,3 +82,6 @@ Invitacion casamiento gabriel moreira y lucia ponce de leon
 =======
 # invitacion-gogo-y-seba
 >>>>>>> fe32ccda247b72e1b4f36c6a74833a3f9253746b
+=======
+# invitacion-ale-y-nico
+>>>>>>> 4e0c95ac29e95177b26f52e69dd49e3fc5a9b537
