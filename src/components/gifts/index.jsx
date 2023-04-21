@@ -65,21 +65,21 @@ export const Gifts = () => {
           <p className="description-text-two">
             <span className="bold line-heigh">CBU:</span>
             <br />
-            2850600140001023349819
+            0070089430004135437129
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">ALIAS:</span>
             <br />
-            seba.falcon.macro
+            ENTERO.CETRO.CAMBIO
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">TITULAR:</span>
             <br />
-            SEBASTIÁN FALCÓN
+            Alejandra Narchi
           </p>
         </div>
       </div>
-      <div
+      {/* <div
         className="container-gifts"
         data-aos="fade-left"
         data-aos-offset="-200"
@@ -103,7 +103,7 @@ export const Gifts = () => {
             <span className="bold line-heigh">BUZÓN EN EL SALÓN</span>
           </p>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };

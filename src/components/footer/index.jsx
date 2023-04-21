@@ -13,7 +13,7 @@ export const Footer = () => {
             target="_blank"
             rel="noreferrer"
           >
-            <p className="name-wsp">PAU</p>
+            <p className="name-wsp">ALE</p>
             <div className="wsp-container">
               <img
                 className="image-wsp"
@@ -23,12 +23,12 @@ export const Footer = () => {
             </div>
           </a>
           <a
-            href="https://api.whatsapp.com/send?phone=5493816629548"
+            href="https://api.whatsapp.com/send?phone=5493815888710"
             className="link-wsp"
             target="_blank"
             rel="noreferrer"
           >
-            <p className="name-wsp">SEBA</p>
+            <p className="name-wsp">NICO</p>
             <div className="wsp-container">
               <img
                 className="image-wsp"
@@ -42,7 +42,7 @@ export const Footer = () => {
           © 2022 Created by
           <a
             className="link-mario"
-            href="https://api.whatsapp.com/send?phone=5493816599099"
+            href="https://api.whatsapp.com/send?phone=5493815091823"
             target="_blank"
             rel="noreferrer"
           >

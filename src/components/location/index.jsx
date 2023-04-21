@@ -47,21 +47,21 @@ export const Location = () => {
             />
           </div>
           <p className="description-text-two">
-            <span className="bold line-heigh">CAPILLA:</span>
-            <br /> SAN CRISTOBAL
+            <span className="bold line-heigh">PARROQUIA:</span>
+            <br /> CRISTO REY
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">UBICACIÓN:</span>
-            <br /> LOBO DE LA VEGA Y BRASIL,
-            <br /> YERBA BUENA, TUCUMÁN
+            <br /> AV. MATE DE LUNA 3906
+            <br /> SAN MIGUEL DE TUCUMÁN, TUCUMÁN
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">HORARIO:</span>
-            <br /> 18:00 HS
+            <br /> 12:00 AM
           </p>
           <a
             className="link-map"
-            href="https://goo.gl/maps/oi577eHNvqN1oGUc8"
+            href="https://goo.gl/maps/HsMziEJ3H4SiGttPA"
             target="_blank"
             rel="noreferrer"
           >
@@ -105,15 +105,16 @@ export const Location = () => {
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">UBICACIÓN:</span>
-            <br /> AV. PERÓN 2400 <br /> YERBA BUENA, TUCUMÁN
+            <br /> AV SOLANO VERA, <br /> RUTA 339 KM 5 <br /> YERBA BUENA,
+            TUCUMÁN
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">HORARIO:</span>
-            <br /> 19:00 HS
+            <br /> 13:00 PM
           </p>
           <a
             className="link-map"
-            href="https://goo.gl/maps/qjZ8ErGCbNNWTLh77"
+            href="https://goo.gl/maps/gRy5rLgZBGMTFSFu8"
             target="_blank"
             rel="noreferrer"
           >

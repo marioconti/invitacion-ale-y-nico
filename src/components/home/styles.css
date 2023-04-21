@@ -1,9 +1,11 @@
 .home-container {
   align-items: center;
-  background: url(../../../public/images/photos-pau-y-seba/4.jpg) fixed;
+  background: url(../../../public/images/photos-ale-y-nico/5.jpg) fixed;
   background-size: cover;
   background-repeat: no-repeat;
   background-position-y: 0%;
+  background-position-x: 0%;
+  background-size: 100%;
   display: flex;
   height: auto;
   flex-direction: column;
@@ -78,11 +80,11 @@
 @media screen and (max-width: 980px) {
   .home-container {
     height: 100vh;
-    background: url(../../../public/images/photos-pau-y-seba/2.jpg);
+    background: url(../../../public/images/photos-ale-y-nico/1.jpg);
     background-repeat: no-repeat;
-    background-position-y: 0%;
-    background-position-x: 50%;
-    background-size: 180%;
+    background-position-y: 10%;
+    background-position-x: 73%;
+    background-size: 123%;
     padding-top: 0rem;
     overflow: hidden;
   }
@@ -111,7 +113,7 @@
     letter-spacing: 4px;
     padding: 1rem 0;
     position: absolute;
-    top: 18%;
+    top: 14%;
     /* top: 45%; */
     width: 100%;
   }

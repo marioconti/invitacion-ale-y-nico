@@ -58,8 +58,7 @@ export const ListWedding = () => {
         <a
           className="link-playlist"
           style={{ fontWeight: 400 }}
-          // TODO:LINK A FORMULARIO CON RECOMENDACIONES
-          href="https://docs.google.com/forms/d/1qvN8dC7dP9jhZRVWBhqZ0KSxy3nYGy_gt2AeeYu8Nuk/edit"
+          href="https://forms.gle/zZmZPxF9c3Y1sCr97"
           target="_blank"
           rel="noreferrer"
         >
@@ -68,7 +67,7 @@ export const ListWedding = () => {
         <a
           className="link-playlist margin-link"
           style={{ fontWeight: 400 }}
-          href="https://open.spotify.com/playlist/6OczhqZBINrJSAzbuRAfKc?si=cfdff36286304086"
+          href="https://open.spotify.com/playlist/0RzWfrvjLuZHvhGsOBhO51?si=da7fbca7040b4b90&pt=3891c5042b95073566d00412f70e4d87"
           target="_blank"
           rel="noreferrer"
         >

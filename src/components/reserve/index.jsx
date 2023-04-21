@@ -58,10 +58,9 @@ export const Reserve = () => {
           data-aos-anchor-placement="top-center"
         >
           <h2 className="description-text">
-            <span className="bold">Nos casamos el 22 de Abril de 2023</span>{" "}
-            <br />
+            <span className="bold">Nos casamos el 27 de Mayo de 2023 </span>
             y esperamos contar con vos! <br />
-            Te pedimos que nos confirmes tu asistencia hasta el 15 de Abril
+            Te pedimos que nos confirmes tu asistencia hasta el 15 de Mayo
           </h2>
           <div className="container-img-style margin-img invitation-animation">
             <img
@@ -73,7 +72,7 @@ export const Reserve = () => {
           </div>
           <a
             className="modal-confirmation"
-            href="https://forms.gle/tbyQ9nAW8FjhVG8H9"
+            href="https://forms.gle/yDkWQNh94mZkxXpV8"
             target="_blank"
             rel="noreferrer"
             // type="button"

@@ -53,7 +53,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-pau-y-seba/1.jpg"
+            src="images/photos-ale-y-nico/4.jpg"
             alt="pareja"
             loading="lazy"
           />
@@ -61,7 +61,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-pau-y-seba/2.jpg"
+            src="images/photos-ale-y-nico/7.jpg"
             alt="pareja"
             loading="lazy"
           />
@@ -69,7 +69,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-pau-y-seba/3.jpg"
+            src="images/photos-ale-y-nico/3.jpg"
             alt="pareja"
             loading="lazy"
           />
@@ -77,7 +77,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-pau-y-seba/4.jpg"
+            src="images/photos-ale-y-nico/2.jpg"
             alt="pareja"
             loading="lazy"
           />
@@ -85,7 +85,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-pau-y-seba/5.jpg"
+            src="images/photos-ale-y-nico/5.jpg"
             alt="pareja"
             loading="lazy"
           />
@@ -93,7 +93,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-pau-y-seba/6.jpg"
+            src="images/photos-ale-y-nico/6.jpg"
             alt="pareja"
             loading="lazy"
           />
@@ -101,7 +101,7 @@ export const Gratitude = () => {
         <div className="container-retrat">
           <img
             className="retrat"
-            src="images/photos-pau-y-seba/7.jpg"
+            src="images/photos-ale-y-nico/1.jpg"
             alt="pareja"
             loading="lazy"
           />

@@ -8,7 +8,6 @@ import { DressCode } from "./components/dressCode";
 import { Footer } from "./components/footer";
 import { Gifts } from "./components/gifts";
 import { Gratitude } from "./components/gratitude";
-import { Hotel } from "./components/hotel/index";
 import { ListWedding } from "./components/musicList";
 
 function App() {
@@ -19,7 +18,7 @@ function App() {
       <Reserve />
       <Location />
       {/* <Maps /> */}
-      <Hotel />
+      {/* <Hotel /> */}
       <DressCode />
       <Gifts />
       <Gratitude />
