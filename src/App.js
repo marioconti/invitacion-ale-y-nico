@@ -1,14 +1,13 @@
 import "./App.css";
-import { Home } from "./components/home";
-import { Location } from "./components/location";
-import { NavBar } from "./components/navbar";
-import { Reserve } from "./components/reserve";
-// import Maps from "./components/maps";
 import { DressCode } from "./components/dressCode";
 import { Footer } from "./components/footer";
 import { Gifts } from "./components/gifts";
 import { Gratitude } from "./components/gratitude";
+import { Home } from "./components/home";
+import { Location } from "./components/location";
 import { ListWedding } from "./components/musicList";
+import { NavBar } from "./components/navbar";
+import { Reserve } from "./components/reserve";
 
 function App() {
   return (
@@ -17,7 +16,6 @@ function App() {
       <Home />
       <Reserve />
       <Location />
-      {/* <Maps /> */}
       {/* <Hotel /> */}
       <DressCode />
       <Gifts />
