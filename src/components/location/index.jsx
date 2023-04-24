@@ -101,7 +101,7 @@ export const Location = () => {
           </div>
           <p className="description-text-two">
             <span className="bold line-heigh">SALÓN:</span>
-            <br /> TERRAZAS DE SAN JOSÉ
+            <br /> COUNTRY SAN PABLO
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">UBICACIÓN:</span>

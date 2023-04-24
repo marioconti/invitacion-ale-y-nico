@@ -70,7 +70,7 @@ export const Gifts = () => {
           <p className="description-text-two">
             <span className="bold line-heigh">ALIAS:</span>
             <br />
-            ENTERO.CETRO.CAMBIO
+            ALE.NICO.27M
           </p>
           <p className="description-text-two">
             <span className="bold line-heigh">TITULAR:</span>

@@ -98,14 +98,14 @@ export const Gratitude = () => {
             loading="lazy"
           />
         </div>
-        <div className="container-retrat">
+        {/* <div className="container-retrat">
           <img
             className="retrat"
             src="images/photos-ale-y-nico/1.jpg"
             alt="pareja"
             loading="lazy"
           />
-        </div>
+        </div> */}
       </Carousel>
     </div>
   );
